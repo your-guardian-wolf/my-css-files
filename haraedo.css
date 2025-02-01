@@ -63,15 +63,19 @@ button {
   background:url(https://i.imgur.com/eWkXmzM.png);}
 
 .forum:nth-child(0n+7) h2:before {
+  background-position:center!important;
   background:url(https://i.imgur.com/HRQVyMs.png)!important;}
 
 .forum:nth-child(0n+8) h2:before {
+  background-position:center!important;
   background:url(https://i.imgur.com/Y1BKKEI.png)!important;}
 
 .forum:nth-child(0n+9) h2:before {
+  background-position:center!important;
   background:url(https://i.imgur.com/ExXXRza.png)!important;}
 
 .forum:nth-child(0n+10) h2:before {
+  background-position:center!important;
   background:url(https://i.imgur.com/GgoYgo2.png)!important;}
 
 .forum {
