@@ -176,6 +176,9 @@
   background:var(--b2)!important;
   border-radius:10px!important;}
 
+#tab-bar span {
+  font-size:8px!important;}
+
 .tab-bar-home .tab-bar-home, .tab-bar-latest .tab-bar-latest, .tab-bar-watchlist .tab-bar-watchlist, .tab-bar-mp .tab-bar-mp, .tab-bar-chatbox .tab-bar-chatbox, .tab-bar-login .tab-bar-login {
   box-shadow:var(--sh);
   background:var(--b4)!important;}
