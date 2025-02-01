@@ -51,6 +51,12 @@ button {
   display:none!important;}
 
 /*MOBILNA WERSJA - STRONA GŁÓWNA*/
+.glownaa h2 {
+  margin-bottom:155px;}
+
+.glownaa h2:first-of-type {
+  margin-bottom:0px!important;}
+
 .glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before, .glownaa:nth-child(0n+10) h2:before {
   width:100%;
   height:150px;
