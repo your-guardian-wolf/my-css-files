@@ -203,6 +203,7 @@
   background:var(--b4)!important;}
 
 #join_index_btn a {
+  background:none!important;
   font-size:0px;}
 
 #join_index_btn i {
