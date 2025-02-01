@@ -1,29 +1,4 @@
-/*CHAT NA MOBILCE*/
-@media (max-width: 700px) {
-  #chatbox {
-    bottom:55px!important;
-    top:0px!important;
-    font-family:'verdana'!important;
-    margin-right:0px!important;
-    margin-left:0px!important;}
 
-  #chatbox_portal iframe {
-    padding:0px!important;
-    box-shadow:none!important;}
-
-  .chatbox-options {
-    bottom:1px!important;}
-  
-    .panel {
-    width:auto!important;
-    padding:0px!important;
-    margin:15px;}
-  
-  #chatbox_members {
-    display:none!important;}
-
-#chatbox_footer {
-    margin-bottom:-15px!important;}}
 
 /*LOGOWANIE*/
 #mwrap #fa-login-form {
