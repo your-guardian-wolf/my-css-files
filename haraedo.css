@@ -46,16 +46,17 @@
 
 /*MOBILNA WERSJA - STRONA GŁÓWNA*/
 .glownaa h2 {
-  margin-bottom:155px;}
+  margin-bottom:190px;}
 
 .glownaa h2:nth-child(0n+5) {
   margin-bottom:0px!important;}
 
 .glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before, .glownaa:nth-child(0n+10) h2:before {
-  width:100%;
+  width:calc(100% - 30px);
   height:150px;
+  left:15px;
   position:absolute;
-  top:15px;
+  top:90px;
   display:block!important;
   content:'';
   box-shadow:var(--sh);
