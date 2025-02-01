@@ -1,7 +1,4 @@
-#logo {
-	width: 200px !important;
-}
-
-.og3 div {
-	max-width: 30px !important;
-}
+.mobile_title {
+	font-size:25px;
+	letter-spacing:5px;
+	text-align:center;}
