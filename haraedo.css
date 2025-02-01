@@ -250,38 +250,8 @@
 .panel div.mes-txt {
   width:100%;}
 
-.kołło {
-  z-index:1;
-  top:16px;
-  left:17px;
-  position:absolute;
-  width:177px;
-  height:177px;
-  background-image:url(https://i.imgur.com/SJnaocH.png);
-  border: var(--o1);
-  box-shadow: var(--sh);
-  border-radius:100%;}
-
-.wojna {
-  border-radius:100%;
-  z-index:3;
-  position:absolute;
-  top:93px;
-  left:94px;
-  font-size:14px;
-  border: var(--o1);
-  box-shadow: var(--sh);
-  padding:5px;
-  background:var(--b3);}
-
 .ogg {
-  position:relative;
-  opacity:0.7;
-  margin-top:5px;
-  margin-left:5px;
-  z-index:2;
-  margin-right:15px;
-  max-width:200px;}
+  display:none!important;}
 
 .ogloszenia > .ogg > div {
   margin-bottom:0px!important;
