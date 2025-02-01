@@ -1,3 +1,43 @@
+/*LOGOWANIE*/
+#fa-login-form {
+  border-radius:10px;
+  color:var(--f1);
+  margin:150px 15px 15px 15px!important;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);
+  padding:15px;}
+
+button {
+  border-radius:10px;
+  color:var(--f1);
+  margin-top:15px;
+  padding:5px 15px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
+.show_hide_pwd {
+  margin-top:5px;}
+
+.password-container input, input[type="text"], .inputbox, div .sceditor-container iframe, div .sceditor-container textarea, #chatbox_footer #message, div.sceditor-dropdown input, div.sceditor-dropdown textarea {
+  border-radius:10px;
+  width:100%;
+  color:var(--f1);
+  margin-top:15px;
+  padding:5px 15px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
+/*TO TOP*/
+#to-top {
+  bottom:100px!important;
+  padding-top:10px;
+  box-shadow:var(--sh)!important;
+  border:var(--o1)!important;
+  background:var(--b1)!important;}
+
 /*TOOLBAR DO UDOSTĘPNIANIA*/
 #addthis-toolbar {
   display:none!important;}
