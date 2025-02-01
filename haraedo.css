@@ -1,10 +1,10 @@
 
 
 /*LOGOWANIE*/
-#mwrap #quickloginform_overlay {
+#mpage-body-modern #quickloginform_overlay {
   margin-top:150px!important;}
 
-#mwrap #fa-login-form {
+#mpage-body-modern #fa-login-form {
   border-radius:10px;
   color:var(--f1);
   margin:150px 15px 15px 15px!important;
@@ -13,7 +13,7 @@
   background:var(--b1);
   padding:15px;}
 
-#mwrap button {
+#mpage-body-modern button {
   border-radius:10px;
   color:var(--f1);
   margin-top:15px;
@@ -22,10 +22,10 @@
   border:var(--o1);
   background:var(--b1);}
 
-#mwrap .show_hide_pwd {
+#mpage-body-modern .show_hide_pwd {
   margin-top:5px;}
 
-#mwrap .password-container input, #mwrap input[type="text"], #mwrap .inputbox, #mwrap div .sceditor-container iframe, #mwrap div .sceditor-container textarea, #mwrap #chatbox_footer #message, #mwrap div.sceditor-dropdown input, #mwrap div.sceditor-dropdown textarea {
+#mpage-body-modern .password-container input, #mpage-body-modern input[type="text"], #mpage-body-modern .inputbox, #mpage-body-modern div .sceditor-container iframe, #mpage-body-modern div .sceditor-container textarea, #mpage-body-modern #chatbox_footer #message, #mpage-body-modern div.sceditor-dropdown input, #mpage-body-modern div.sceditor-dropdown textarea {
   border-radius:10px;
   width:100%;
   color:var(--f1);
