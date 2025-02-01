@@ -55,7 +55,8 @@
   border:var(--o1)!important;
   box-shadow:var(--sh);
   background:var(--b2);
-  margin:10px 15px!important;
+  position:relative!important;
+  margin:15px 0px 0px -50px!important;
   padding:10px 15px!important;}
 
 .forum-lastpost, .forum-lastpost-time {
