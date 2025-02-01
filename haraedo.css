@@ -39,6 +39,9 @@
   border-radius:10px;
   font-family:var(--ff1);}
 
+.forum-section-wrap:last-child .forum-section::before {
+  border-radius:10px!important;}
+
 .forum-statistics {
   letter-spacing:3px;
   text-transform: uppercase;
