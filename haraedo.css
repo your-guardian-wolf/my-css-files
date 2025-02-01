@@ -88,6 +88,9 @@
   color:var(--f3)!important;
   font-size:12px!important;}
 
+.forum {
+  margin:15px!important;}
+
 #join_index_btn {
   margin-left:15px!important;
   margin-right:15px!important;
