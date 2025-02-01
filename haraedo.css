@@ -2,6 +2,26 @@
 .mobile_title {
   display:none!important;}
 
+.forum-section::before {
+  margin:5px;
+  border:var(--o1)!important;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  background:var(--b4)!important;}
+
+.forum-section-wrap:not(:last-child)::after { 
+  background:var(--b4)!important;}
+
+.forum-icon {
+  overflow:hidden;
+  background:var(--b1)!important;
+  border:var(--o1)!important;
+  border-radius:10px!important;
+  box-shadow:var(--sh)!important;}
+
+.forum-avatar {
+  border-radius:0px!important;}
+
 #mwrap .forum h2 {
   text-align:center;
   letter-spacing:3px;
