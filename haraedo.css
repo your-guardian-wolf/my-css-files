@@ -1,3 +1,11 @@
+/*CHAT NA MOBILCE*/
+#chatbox {
+  margin:0px!important;}
+
+#chatbox_footer {
+  display:flex!important;
+  flex-wrap:wrap;}
+
 /*LOGOWANIE*/
 #fa-login-form {
   border-radius:10px;
