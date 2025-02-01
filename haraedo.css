@@ -83,7 +83,7 @@
 
 .forum-description {
   max-height:150px!important;
-  ovetflow:auto;
+  overflow:auto;
   line-height:14px!important;
   color:var(--f3)!important;
   font-size:12px!important;}
