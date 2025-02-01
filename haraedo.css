@@ -18,12 +18,12 @@
   letter-spacing:3px;
   text-transform: uppercase;
   margin:-5px;
-  padding:2px 10px;
-  font-size:9px;
+  padding:2px 10px!important;
+  font-size:9px!important;
   border:var(--o1);
-  box-shadow:var(--sh);
-  background:var(--b2);
-  border-radius:10px;}
+  box-shadow:var(--sh)!important;
+  background:var(--b2)!important;
+  border-radius:10px!important;}
 
 .forum-lastpost-wrap {
   border:var(--o1);
