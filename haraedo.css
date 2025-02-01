@@ -72,6 +72,7 @@
 
 #join_index_btn i:before {
   float:left;
+  color:var(--f1)!important;
   margin-right:15px;
   font-family:var(--ff1);
   content:'ZAREJESTRUJ SIĘ NA HARAEDO!';
@@ -95,7 +96,7 @@
   margin:0px!important;
   overflow:hidden!important;
   border-radius:10px!important;
-  max-height:400px!important;
+  max-height:450px!important;
   background-size: cover!important;
   max-height:auto!important;
   background:url(https://i.imgur.com/6qCe1Q7.png),var(--b1);}
@@ -104,7 +105,7 @@
   display:none!important;}
 
 .forum-header-content {
-  height:400px!important;
+  height:450px!important;
   border-radius:10px!important;
   background-color:transparent!important;
   border:var(--o1)!important;
