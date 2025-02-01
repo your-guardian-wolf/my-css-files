@@ -74,6 +74,19 @@ button {
 .forum:nth-child(0n+10) h2:before {
   background:url(https://i.imgur.com/GgoYgo2.png)!important;}
 
+.forum {
+  padding:15px;
+  box-shadow:var(--sh)!important;
+  border-radius:10px!important;
+  border:var(--o1);
+  background:var(--b2);}
+
+.forum-section-wrap {
+  margin-bottom:15px;}
+
+.forum-section-wrap:last-of-type {
+  margin-bottom:0px!important;}
+
 .mobile_title {
   display:none!important;}
 
