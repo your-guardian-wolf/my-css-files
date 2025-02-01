@@ -1,6 +1,9 @@
 
 
 /*LOGOWANIE*/
+#mwrap #quickloginform_overlay {
+  margin-top:150px!important;}
+
 #mwrap #fa-login-form {
   border-radius:10px;
   color:var(--f1);
