@@ -151,7 +151,8 @@
 
 .og3 div {
   position:relative;
-  flex:1;
+  flex:auto;
+  color:var(--f1);
   padding:5px 15px;
   border:var(--o1);
   box-shadow:var(--sh);
