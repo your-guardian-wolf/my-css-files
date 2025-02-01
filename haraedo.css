@@ -76,6 +76,8 @@
   text-transform:none!important;}
 
 .forum-description {
+  margin-top:15px!important;
+  line-height:14px!important;
   color:var(--f3)!important;
   font-size:12px!important;}
 
