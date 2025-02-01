@@ -142,7 +142,7 @@
 .og3 {
   font-size:10px;
   position:relative;
-  width:calc(100% - 150px);
+  width:calc(100% - 30px);
   margin-left:15px;
   margin-top:-15px;
   display:flex;
