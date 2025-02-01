@@ -136,31 +136,7 @@
   opacity:0.2;}
 
 .og2 {
-  position:relative;
-  overflow:hidden;
-  padding:15px;
-  border:var(--o1);
-  box-shadow:var(--sh);
-  background:var(--b1);
-  z-index:2;
-  max-width:500px;
-  flex:2;}
-
-.og2 > div {
-  display:block!important;
-  border-radius:0px!important;
-  text-align:justify!important;
-  overflow:auto!important;
-  max-height:90px;
-  margin-bottom:50px!important;}
-
-.og2 > div > span {
-  float:left;
-  padding:5px 15px;
-  margin-right:10px;
-  background: var(--b1);
-  border: var(--o1);
-  box-shadow: var(--sh);}
+  display:none!important;}
 
 .oglo-tlo-2 {
   bottom:-100px;
