@@ -264,6 +264,7 @@
   background:none!important;}
 
 .ogloszenia {
+  color:var(--f1)!important;
   position:relative;
   letter-spacing:1px;
   overflow:hidden;
