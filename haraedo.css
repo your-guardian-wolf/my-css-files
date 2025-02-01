@@ -87,6 +87,9 @@
   text-transform:none!important;}
 
 .forum-description {
+  width:100%;
+  overflow:auto;
+  max-height:150px;
   line-height:14px!important;
   color:var(--f3)!important;
   font-size:12px!important;}
