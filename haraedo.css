@@ -159,6 +159,11 @@
   border:var(--o1)!important;
   background:var(--b1)!important;}
 
+.whoisonline-toggle, .whoisonline-guest-toggle {
+  border-radius:10px!important;
+  padding:5px 15px!important;
+  background:var(--b2)!important;}
+
 /*FIXED MENU*/
 #tab-bar {
   color:var(--f1)!important;
