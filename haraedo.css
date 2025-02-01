@@ -122,10 +122,10 @@
 
 #mwrap .forum h2 {
   text-align:center;
-  letter-spacing:3px;
+  letter-spacing:2px;
   text-transform: uppercase;
   color:var(--f1);
-  font-size:15px;
+  font-size:12px;
   border:var(--o1);
   box-shadow:var(--sh);
   background:var(--b4);
