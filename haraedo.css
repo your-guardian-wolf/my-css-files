@@ -135,6 +135,9 @@
 .forum-section-wrap:last-child .forum-section::before {
   border-radius:10px!important;}
 
+.forum h2 span {
+  margin:0px!important;}
+
 .forum-statistics {
   letter-spacing:3px;
   text-transform: uppercase;
