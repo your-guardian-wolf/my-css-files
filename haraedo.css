@@ -1,3 +1,15 @@
+/*FIXED MENU*/
+#tab-bar {
+  color:var(--f1)!important;
+  font-size:11px!important;
+  box-shadow:var(--sh)!important;
+  border:var(--o1)!important;
+  background:var(--b2)!important;
+  border-radius:10px!important;}
+
+.tab-bar-home .tab-bar-home, .tab-bar-latest .tab-bar-latest, .tab-bar-watchlist .tab-bar-watchlist, .tab-bar-mp .tab-bar-mp, .tab-bar-chatbox .tab-bar-chatbox, .tab-bar-login .tab-bar-login {
+  background:var(--b4)!important;}
+
 /*MOBILNA WERSJA - STRONA GŁÓWNA*/
 .mobile_title {
   display:none!important;}
