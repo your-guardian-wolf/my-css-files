@@ -148,6 +148,17 @@
   border:var(--o1)!important;
   box-shadow:var(--sh)!important;}
 
+/*STATYSTYKI*/
+.box-subtle {
+  color:var(--f1)!important;
+  margin:15px!important;
+  padding:15px!important;
+  border-radius:10px!important;
+  text-align:center!important;
+  box-shadow:var(--sh)!important;
+  border:var(--o1)!important;
+  background:var(--b1)!important;}
+
 /*FIXED MENU*/
 #tab-bar {
   color:var(--f1)!important;
