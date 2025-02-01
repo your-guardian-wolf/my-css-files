@@ -270,6 +270,7 @@
   background:none!important;}
 
 .ogloszenia {
+  text-align:center!important;
   color:var(--f1)!important;
   position:relative;
   letter-spacing:1px;
