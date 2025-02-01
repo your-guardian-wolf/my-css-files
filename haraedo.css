@@ -60,6 +60,8 @@ button {
 .glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before, .glownaa:nth-child(0n+10) h2:before {
   width:100%;
   height:150px;
+  position:absolute;
+  top:15px;
   display:block!important;
   content:'';
   box-shadow:var(--sh);
