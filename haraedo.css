@@ -285,7 +285,7 @@
   background:var(--b4)!important;}
 
 /*OGŁOSZENIA*/
-.og3 {
+#mwrap .og3 {
   font-size:10px;
   position:relative;
   width:calc(100% - 30px);
@@ -295,7 +295,7 @@
   flex-wrap:wrap;
   gap:15px;}
 
-.og3 div {
+#mwrap .og3 div {
   position:relative;
   flex:auto;
   color:var(--f1);
@@ -304,17 +304,17 @@
   box-shadow:var(--sh);
   background:var(--b3);}
 
-.og3 div em {
+#mwrap .og3 div em {
   margin-top:-5px;
   margin-left:-30px;
   position:absolute;
   font-size:30px;
   opacity:0.2;}
 
-.og2 {
+#mwrap .og2 {
   display:none!important;}
 
-.oglo-tlo-2 {
+#mwrap .oglo-tlo-2 {
   bottom:-100px;
   left:2px;
   width:calc(100% - 4px);
@@ -324,17 +324,17 @@
   background-repeat:no-repeat!important;
   background:url('https://i.imgur.com/EestZWC.png');}
 
-.ogloszenia span, .ogloszenia div {
+#mwrap .ogloszenia span, #mwrap .ogloszenia div {
   line-height:17px!important;}
 
-.og1 {
+#mwrap .og1 {
   padding:2px 15px 2px 2px;
   z-index:2;
   overflow:auto;
   max-height:175px;
   flex:1;}
 
-.og1 > div {
+#mwrap .og1 > div {
   overflow:hidden;
   position:relative;
   display:flex;
@@ -347,19 +347,19 @@
   padding:10px 15px 10px 55px;
   background:var(--b1);}
 
-.og1 > div:last-of-type {
+#mwrap .og1 > div:last-of-type {
   margin-bottom:0px!important;}
 
-.og1 > div > span {
+#mwrap .og1 > div > span {
   flex:auto;}
 
-.og1 > div > span:first-of-type > span {
+#mwrap .og1 > div > span:first-of-type > span {
   letter-spacing:5px!important;
   font-size:21px;
   opacity:0.25;
   position:absolute;} 
 
-.og1 > div > span:first-of-type {
+#mwrap .og1 > div > span:first-of-type {
   position:absolute;
   background-position:bottom!important;
   background-repeat:no-repeat!important;
@@ -376,7 +376,7 @@
   display:flex;
   left:-25px;}
 
-.ogloszenia:before {
+#mwrap .ogloszenia:before {
   filter:blur(3px);
   border-left:1px solid #181818;
   border-bottom:1px solid #181818;
@@ -388,13 +388,13 @@
   width:260px;
   height:361px;}
 
-.og-ima {
+#mwrap .og-ima {
   z-index:-1;
   position:absolute;
   right:-100px;
   bottom:-80px;}
 
-.panel.introduction {
+#mwrap .panel.introduction {
   overflow:inherit!important;
   margin-bottom:70px;
   width:100%;
@@ -402,13 +402,13 @@
   align-items: center;
   display:flex;}
 
-.panel div.mes-txt {
+#mwrap .panel div.mes-txt {
   width:100%;}
 
-.ogg {
+#mwrap .ogg {
   display:none!important;}
 
-.ogloszenia > .ogg > div {
+#mwrap .ogloszenia > .ogg > div {
   margin-bottom:0px!important;
   padding:0px!important;
   margin-right:15px!important;
@@ -416,7 +416,7 @@
   border:0px!important;
   background:none!important;}
 
-.ogloszenia {
+#mwrap .ogloszenia {
   text-align:center!important;
   color:var(--f1)!important;
   position:relative;
