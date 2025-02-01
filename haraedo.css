@@ -51,6 +51,29 @@ button {
   display:none!important;}
 
 /*MOBILNA WERSJA - STRONA GŁÓWNA*/
+.forum:nth-child(0n+6):before, .forum:nth-child(0n+7):before, .forum:nth-child(0n+8):before, .forum:nth-child(0n+9):before, .forum:nth-child(0n+10):before {
+  width:100%;
+  height:150px;
+  display:block!important;
+  content:'';
+  box-shadow:var(--sh);
+  border:var(--o1);
+  border-radius:10px;
+  background-position:center!important;
+  background:url(https://i.imgur.com/eWkXmzM.png);}
+
+.forum:nth-child(0n+7):before {
+  background:url(https://i.imgur.com/HRQVyMs.png)!important;}
+
+.forum:nth-child(0n+8):before {
+  background:url(https://i.imgur.com/Y1BKKEI.png)!important;}
+
+.forum:nth-child(0n+9):before {
+  background:url(https://i.imgur.com/ExXXRza.png)!important;}
+
+.forum:nth-child(0n+10):before {
+  background:url(https://i.imgur.com/GgoYgo2.png)!important;}
+
 .mobile_title {
   display:none!important;}
 
