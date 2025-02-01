@@ -53,6 +53,9 @@
   margin:10px 15px!important;
   padding:10px 15px!important;}
 
+.forum-lastpost {
+  font-size:10px!important;}
+
 #mwrap .forum h3 {
   letter-spacing:3px;
   text-transform: uppercase;
