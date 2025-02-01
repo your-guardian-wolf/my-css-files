@@ -88,6 +88,7 @@
   font-size:0px;}
 
 #join_index_btn i {
+  color:var(--f1)!important;
   font-size:20px!important;}
 
 #join_index_btn i:before {
