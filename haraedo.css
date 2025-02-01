@@ -7,7 +7,7 @@
   flex-wrap:wrap;}
 
 /*LOGOWANIE*/
-#fa-login-form {
+#mwrap #fa-login-form {
   border-radius:10px;
   color:var(--f1);
   margin:150px 15px 15px 15px!important;
@@ -16,7 +16,7 @@
   background:var(--b1);
   padding:15px;}
 
-button {
+#mwrap button {
   border-radius:10px;
   color:var(--f1);
   margin-top:15px;
@@ -25,10 +25,10 @@ button {
   border:var(--o1);
   background:var(--b1);}
 
-.show_hide_pwd {
+#mwrap .show_hide_pwd {
   margin-top:5px;}
 
-.password-container input, input[type="text"], .inputbox, div .sceditor-container iframe, div .sceditor-container textarea, #chatbox_footer #message, div.sceditor-dropdown input, div.sceditor-dropdown textarea {
+#mwrap .password-container input, #mwrap input[type="text"], #mwrap .inputbox, #mwrap div .sceditor-container iframe, #mwrap div .sceditor-container textarea, #mwrap #chatbox_footer #message, #mwrap div.sceditor-dropdown input, #mwrap div.sceditor-dropdown textarea {
   border-radius:10px;
   width:100%;
   color:var(--f1);
