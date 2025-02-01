@@ -48,7 +48,7 @@
   display:none!important;}
 
 /*MOBILNA WERSJA - STRONA GŁÓWNA*/
-.module-table .module {
+#mpage-body-moder .module {
   margin:15px!important;
   width:calc(100% - 30px)!important;
   background:var(--b1)!important;}
