@@ -406,7 +406,7 @@
 #mwrap .panel div.mes-txt {
   width:100%;}
 
-#mwrap .ogg {
+#mwrap .ogg, #mwrap .wojna, #mwrap .kołło {
   display:none!important;}
 
 #mwrap .ogloszenia > .ogg > div {
