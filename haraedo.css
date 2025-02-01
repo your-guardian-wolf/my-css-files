@@ -48,7 +48,7 @@
 .glownaa h2 {
   margin-bottom:190px;}
 
-.glownaa h2:nth-child(0n+5) {
+.glownaa:nth-child(0n+5) h2 {
   margin-bottom:0px!important;}
 
 .glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before, .glownaa:nth-child(0n+10) h2:before {
