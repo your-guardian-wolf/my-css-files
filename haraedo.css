@@ -294,6 +294,7 @@
   gap:15px;}
 
 #mwrap .og3 div {
+  text-align:center!important;
   position:relative;
   flex:auto;
   color:var(--f1);
