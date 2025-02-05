@@ -2,6 +2,7 @@
 .btn-floating { 
   right:auto!important;
   left:15px!important;
+  bottom:103px!important;
   padding:10px 15px;
   border-radius:10px;
   box-shadow:var(--sh)!important;
