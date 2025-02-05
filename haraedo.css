@@ -1,4 +1,6 @@
-
+/*OKNO ODPOWIEDZI*/
+.input-subtle {
+  color:var(--f1);!important;}
 
 /*LOGOWANIE*/
 #mpage-body-modern #quickloginform_overlay {
