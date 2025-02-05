@@ -2,8 +2,8 @@
 .btn-floating { 
   padding:10px 15px;
   border-radius:10px;
-  box-shadow:var(--sh);
-  border:var(--o1);
+  box-shadow:var(--sh)!important;
+  border:var(--o1)!important;
   background:var(--b1);}
 
 /*MOBILNA - LIKE/DISLIKE*/
@@ -16,6 +16,7 @@
   background:var(--b1);}
 
 .rep-nb {
+  color:var(--f1)!important;
   background:none!important;}
 
 /*MOBILNA - OKNO ODPOWIEDZI*/
