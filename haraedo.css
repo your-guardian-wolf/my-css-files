@@ -1,3 +1,11 @@
+/*MOBILNA - ikona odpowiedz do tematu*/
+.btn-floating { 
+  padding:10px 15px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
 /*MOBILNA - LIKE/DISLIKE*/
 #mwrap .fa_like_list, #mwrap .fa_dislike_list, #mwrap .option_voters_list {
   font-size:10px;
