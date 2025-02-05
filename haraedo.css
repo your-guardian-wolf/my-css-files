@@ -2,6 +2,13 @@
 .input-subtle {
   color:var(--f1);!important;}
 
+.btn-black {
+  padding-top:5px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
 /*LOGOWANIE*/
 #mpage-body-modern #quickloginform_overlay {
   margin-top:150px!important;}
