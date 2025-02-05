@@ -1,4 +1,12 @@
-/*OKNO ODPOWIEDZI*/
+/*MOBILNA - LIKE/DISLIKE*/
+#mwrap .fa_like_div {
+  padding:10px 15px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
+/*MOBILNA - OKNO ODPOWIEDZI*/
 .input-subtle {
   color:var(--f1);!important;}
 
@@ -9,7 +17,7 @@
   border:var(--o1);
   background:var(--b1);}
 
-/*LOGOWANIE*/
+/*MOBILNA - LOGOWANIE*/
 #mpage-body-modern #quickloginform_overlay {
   margin-top:150px!important;}
 
