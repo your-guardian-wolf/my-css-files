@@ -70,7 +70,9 @@
 
 /*TO TOP*/
 #to-top {
-  bottom:100px!important;
+  width:auto!important;
+  heigh:auto!important;
+  bottom:103px!important;
   padding-top:10px;
   box-shadow:var(--sh)!important;
   border:var(--o1)!important;
