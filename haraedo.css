@@ -1,5 +1,7 @@
 /*MOBILNA - ikona odpowiedz do tematu*/
 .btn-floating { 
+  right:auto!important;
+  left:15px!important;
   padding:10px 15px;
   border-radius:10px;
   box-shadow:var(--sh)!important;
