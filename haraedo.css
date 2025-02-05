@@ -1,5 +1,6 @@
 /*MOBILNA - LIKE/DISLIKE*/
 #mwrap .fa_like_list, #mwrap .fa_dislike_list, #mwrap .option_voters_list {
+  font-size:10px;
   padding:10px 15px;
   border-radius:10px;
   box-shadow:var(--sh);
