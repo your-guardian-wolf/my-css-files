@@ -1,5 +1,7 @@
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
+  max-height:200px;
+  overflow:auto;
   margin-top:15px;
   display:flex;
   flex-wrap:wrap;
