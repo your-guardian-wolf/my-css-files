@@ -1,3 +1,7 @@
+/*MOBILNA - POSTY*/
+#mwrap .post-content {
+  font-size:3.2vw!important;}
+
 /*MOBILNA - tabela*/ 
 #mwrap .post-content table td {
   font-size:2.8vw!important;
