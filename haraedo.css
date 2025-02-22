@@ -1,5 +1,16 @@
 /*MOBILNA - ostatnio zalogowani*/
+.whu {
+  padding:10px 15px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
+.whoisonline-category::before {
+  content:'OSTATNIO ZALOGOWANI'!important;}
+
 .whoisonline-category {
+  background:none!important;
   display:none;}
 
 .whoisonline-user {
