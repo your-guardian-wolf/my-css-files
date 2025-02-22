@@ -1,5 +1,6 @@
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
+  margin-top:15px;
   display:flex;
   flex-wrap:wrap;
   padding:10px 15px;
