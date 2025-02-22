@@ -8,13 +8,6 @@
   border:var(--o1);
   background:var(--b1);}
 
-.whoisonline-category::before {
-  content:'OSTATNIO ZALOGOWANI'!important;}
-
-.whoisonline-category {
-  background:none!important;
-  display:none;}
-
 .whoisonline-user {
   flex:auto;
   padding:0px!important;
