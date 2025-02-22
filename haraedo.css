@@ -2,6 +2,9 @@
 .mwrap .post-content table td {
   padding:5px!important;}
 
+.post-content table th {
+  padding:5px!important;}
+
 /*MOBILNA - ikona odpowiedz do tematu*/
 .btn-floating { 
   right:auto!important;
