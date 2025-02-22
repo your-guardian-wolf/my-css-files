@@ -1,5 +1,7 @@
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
+  display:flex;
+  flex-wrap:wrap;
   padding:10px 15px;
   border-radius:10px;
   box-shadow:var(--sh);
@@ -14,6 +16,8 @@
   display:none;}
 
 .whoisonline-user {
+  flex:auto;
+  text-align:center;
   padding:0px 5px!important;
   border-bottom:0px!important;
   font-size:10px;}
