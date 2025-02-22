@@ -11,6 +11,9 @@
   border:var(--o1);
   background:var(--b1);}
 
+.whoisonline-category {
+  display:none;}
+
 .whoisonline-user {
   flex:auto;
   padding:0px!important;
