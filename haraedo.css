@@ -1,3 +1,12 @@
+/*MOBILNA - ostatnio zalogowani*/
+.whoisonline-category {
+  display:none;}
+
+.whoisonline-user {
+  padding:0px 5px!important;
+  border-bottom:0px!important;
+  font-size:10px;}
+
 /*MOBILNA - POSTY*/
 #mwrap .post-content {
   font-size:3.2vw!important;}
