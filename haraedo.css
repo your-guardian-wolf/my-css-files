@@ -505,3 +505,7 @@
   box-shadow:var(--sh);
   border:var(--o1);
   background:var(--b3);}
+
+/*MOBILNA WERSJA - PODSTAWY*/
+#mwrap { 
+  background:#181818!important;}
