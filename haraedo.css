@@ -1,6 +1,6 @@
 /*TEMATY*/
 .t7 .obr {
-  width:50%;
+  width:200px;
   transition:0.5s;
   overflow:hidden;
   opacity:0.5;
@@ -11,7 +11,7 @@
 .t7 .obr:hover {
   opacity:0.8;
   filter:grayscale(40%);
-  width:100%;}
+  width:450px;}
 
 .t7 .t3 {
   margin-bottom:10px!important;}
