@@ -1,3 +1,18 @@
+/*TEMATY*/
+.t7 .obr {
+  width:50%;
+  margin-top:0px!important;}
+
+.t7 .obr:hover {
+  width:100%;}
+
+.t7 br {
+  display:none;}
+
+.t7 {
+  display:flex;
+  flex-wrap:wrap;}
+
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
   max-height:200px;
