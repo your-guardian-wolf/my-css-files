@@ -1,9 +1,16 @@
 /*TEMATY*/
 .t7 .obr {
   width:50%;
+  transition:0.5s;
+  overflow:hidden;
+  opacity:0.5;
+  border-radius:7px!important;
+  filter:grayscale(100%);
   margin-top:0px!important;}
 
 .t7 .obr:hover {
+  opacity:0.8;
+  filter:grayscale(40%);
   width:100%;}
 
 .t7 br {
@@ -12,6 +19,7 @@
 .t7 {
   display:flex;
   flex-wrap:wrap;}
+
 
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
