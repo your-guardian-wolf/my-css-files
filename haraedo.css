@@ -53,7 +53,7 @@
   min-width:100%!important;
   text-transform: uppercase;
   font-family:'roboto condensed';
-  font-size:12px;
+  font-size:12px!important;
   text-align:center;
   padding:10px;
   border:var(--o1);
