@@ -1,4 +1,10 @@
 /*MOCE YUREI*/
+.nodbl {
+  opacity:0.5;}
+
+.nodbl:hover {
+  opacity:0.5;}
+
 .moce {
   padding:10px;
   border:var(--o1);
