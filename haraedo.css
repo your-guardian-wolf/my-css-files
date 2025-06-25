@@ -20,7 +20,7 @@
   overflow:auto;
   font-size:11px;
   flex:1;
-  min-width:7%;
+  min-width:10%;
   text-align:center;
   padding:10px;
   border:var(--o1);
