@@ -52,7 +52,7 @@
   min-width:100%!important;
   text-transform: uppercase;
   font-family:'roboto condensed';
-  font-size:13px;
+  font-size:12px;
   text-align:center;
   padding:10px;
   border:var(--o1);
@@ -66,6 +66,7 @@
   flex-wrap:wrap;}
 
 .moce p:last-child {
+  font-size:11px;
   margin:0px!important;}
 
 /*GŁÓWNA - Sasayaku, Raimei*/
