@@ -1,5 +1,6 @@
 /*MOCE YUREI*/
 .nodbl {
+  transition:0.5s;
   opacity:0.3;}
 
 .nodbl:hover {
