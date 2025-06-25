@@ -1,6 +1,69 @@
+/*MOCE YUREI*/
+.moce {
+  padding:10px;
+  border:var(--o1);
+  background:var(--b3);
+  box-shadow:var(--sh);}
+
+.moce > div > div:nth-child(3n) {
+  max-height:143px;
+  overflow:auto;
+  flex:2!important;
+  font-size:11px;
+  min-width:25%!important;
+  background:var(--b3);}
+
+.moce > div > div {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  overflow:auto;
+  font-size:11px;
+  flex:1;
+  min-width:7%;
+  text-align:center;
+  padding:10px;
+  border:var(--o1);
+  background:var(--b1);
+  box-shadow:var(--sh);}
+
+.moce > div > div:nth-child(3n-1) {
+  align-items: baseline!important;
+  max-height:143px;
+  font-size:11px;
+  flex:3;
+  overflow:auto;
+  min-width:66%;
+  text-align:justify;
+  padding:10px;
+  border:var(--o1);
+  background:var(--b3);
+  box-shadow:var(--sh);}
+
+.moce p {
+  margin:0px 0px 20px 0px!important;
+  min-width:100%!important;
+  text-transform: uppercase;
+  font-family:'roboto condensed';
+  font-size:15px;
+  text-align:center;
+  padding:10px;
+  border:var(--o1);
+  background:var(--b1);
+  box-shadow:var(--sh);}
+
+.moce > div {
+  margin-top:-20px;
+  margin-bottom:-20px;
+  display:flex;
+  flex-wrap:wrap;}
+
+.moce p:last-child {
+  margin:0px!important;}
+
 /*GŁÓWNA - Sasayaku, Raimei*/
 .forabg:nth-child(0n+3) .row:nth-child(0n+5), .forabg:nth-child(0n+3) .row:nth-child(0n+6) {
-  paddng-bottom:41px!important;}
+  padding-bottom:41px!important;}
 
 /*TEMATY*/
 .t7 .obr {
