@@ -100,6 +100,24 @@
   display:flex;
   flex-wrap:wrap;}
 
+.t-m {
+  position:relative;
+  font-size:11px;
+  padding:10px 15px;
+  text-align:center;
+  color:var(--f1);
+  font-family:var(--ff1);
+  letter-spacing:2px;
+  text-transform: uppercase;
+  border:var(--o1);
+  box-shadow:var(--sh);
+  background:var(--b4);}
+
+i.ti.ti-briefcase {
+    position: absolute;
+    left: 15px;
+    margin-top: -7px;
+    font-size: 26px;}
 
 /*MOBILNA - ostatnio zalogowani*/
 .whu {
