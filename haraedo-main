@@ -1,2 +1,5 @@
 a:link {
 font-size:40px!important;}
+
+h2 {
+font-size:40px!important;}
