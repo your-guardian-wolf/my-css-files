@@ -1,2 +1,2 @@
-a {
+a:link {
 font-size:40px!important;}
