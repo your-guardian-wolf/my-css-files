@@ -1,3 +1,8 @@
+/*MOBILNA - posty*/
+.ikony-mobile {
+  display:flex;
+  flex-wrap:10px;}
+
 /*MOBILNA - chat*/
 #chatbox_footer {
   left:0px!important;}
