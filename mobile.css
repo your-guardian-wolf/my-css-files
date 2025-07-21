@@ -1,4 +1,10 @@
 /*MOBILNA - posty*/
+.post-details {
+  font-size:0px;}
+
+.post-details span {
+  font-size:12px!important;}
+
 .post-icon img {
   width:100px;
   height:160px;}
