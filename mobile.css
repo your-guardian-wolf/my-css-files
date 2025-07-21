@@ -1,6 +1,6 @@
 /*MOBILNA - posty*/
 .post-details {
-  font-size:0px;}
+  font-size:0px!important;}
 
 .post-details span {
   font-size:12px!important;}
@@ -26,11 +26,11 @@
   background:var(--b1);}
 
 .ikony-mobile {
-  font-size:15px!important;
   display:flex;
   gap:10px;}
 
 .ikony-mobile i {
+  font-size:15px!important;
   padding:10px 15px;
   border-radius:10px;
   box-shadow:var(--sh);
