@@ -3,6 +3,16 @@
   display:flex;
   flex-wrap:10px;}
 
+.ikony-mobile i {
+  padding:10px 15px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
+.ikony-mobile span {
+  display:none;}
+
 /*MOBILNA - chat*/
 #chatbox_footer {
   left:0px!important;}
