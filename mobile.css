@@ -1,4 +1,9 @@
 /*MOBILNA - posty*/
+.poster-list .poster:before {
+  border-radius:10px;
+  background: var(--poster-avatar, var(--b1)), var(--b2);
+  border:var(--o1)!important;}
+
 .post-icon {
   width:100px!important;
   height:100px!important;
