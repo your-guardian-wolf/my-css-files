@@ -18,6 +18,8 @@
   border:var(--o1)!important;}
 
 .post-icon {
+  margin-top:15px;
+  margin-bottom:15px;
   width:100px!important;
   height:100px!important;
   border-radius:10px!important;
