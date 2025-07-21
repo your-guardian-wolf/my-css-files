@@ -126,10 +126,10 @@
 .glownaa h2 {
   margin-bottom:190px;}
 
-.glownaa:nth-child(0n+5) h2 {
+.glownaa:nth-child(0n+4) h2 {
   margin-bottom:15px!important;}
 
-.glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before, .glownaa:nth-child(0n+10) h2:before {
+.glownaa:nth-child(0n+5) h2:before, .glownaa:nth-child(0n+6) h2:before, .glownaa:nth-child(0n+7) h2:before, .glownaa:nth-child(0n+8) h2:before, .glownaa:nth-child(0n+9) h2:before {
   width:calc(100% - 30px);
   height:150px;
   left:15px;
@@ -143,19 +143,19 @@
   background-position:center!important;
   background:url(https://i.imgur.com/eWkXmzM.png);}
 
-.glownaa:nth-child(0n+7) h2:before {
+.glownaa:nth-child(0n+6) h2:before {
   background-position:center!important;
   background:url(https://i.imgur.com/HRQVyMs.png)!important;}
 
-.glownaa:nth-child(0n+8) h2:before {
+.glownaa:nth-child(0n+7) h2:before {
   background-position:center!important;
   background:url(https://i.imgur.com/Y1BKKEI.png)!important;}
 
-.glownaa:nth-child(0n+9) h2:before {
+.glownaa:nth-child(0n+8) h2:before {
   background-position:center!important;
   background:url(https://i.imgur.com/ExXXRza.png)!important;}
 
-.glownaa:nth-child(0n+10) h2:before {
+.glownaa:nth-child(0n+9) h2:before {
   background-position:center!important;
   background:url(https://i.imgur.com/GgoYgo2.png)!important;}
 
