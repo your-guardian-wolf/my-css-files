@@ -9,7 +9,7 @@
   color:var(--f1);}
 
 .post-icon img {
-  width:100px;
+  width:100px!important;
   height:160px;}
 
 .poster-list .poster:before {
