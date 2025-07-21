@@ -5,6 +5,9 @@
 .post-details span {
   font-size:12px!important;}
 
+.post-info .h3 {
+  color:var(--f1);}
+
 .post-icon img {
   width:100px;
   height:160px;}
