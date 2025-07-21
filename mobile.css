@@ -8,8 +8,9 @@
   background:var(--b1);}
 
 .ikony-mobile {
+  font-size:15px;
   display:flex;
-  flex-wrap:10px;}
+  gap:10px;}
 
 .ikony-mobile i {
   padding:10px 15px;
