@@ -1,4 +1,12 @@
 /*MOBILNA - posty*/
+.post-icon {
+  width:100px;
+  height:100px;
+  border-radius:10px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
+
 .ikony-mobile {
   display:flex;
   flex-wrap:10px;}
