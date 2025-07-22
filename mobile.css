@@ -18,7 +18,7 @@
   border:var(--o1)!important;}
 
 .post-icon {
-  margin-top:15px;
+  margin-top:15px!important;
   margin-bottom:15px;
   width:100px!important;
   height:100px!important;
