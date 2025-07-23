@@ -1,3 +1,42 @@
+/*MODILNA - header*/ 
+#mpage-body-modern #header {
+  border-radius:10px;
+  border:var(--o1);
+  box-shadow: var(--sh);
+  background:var(--b1);
+  z-index:99;
+  position:fixed;
+  top:0px;
+  height:45px!important;
+  line-height:0px!important;
+  display:block!important;}
+
+#header #mToggleArrow {
+  right:15px!important;}
+
+#header #mNotificationBtn {
+  right:65px!important;}
+
+#header .mobile_prev_button p {
+  display:none!important;}
+
+#header .mobile_prev_button::after, #header #mNotificationBtn::after, #header #mToggleArrow::after {
+  margin-top:-5px!important;}
+
+#header .mobile_prev_button::after {
+  line-height:30px!important;}
+
+#header #mToggleArrow:hover, #mNotificationBtn:hover, #header .mobile_prev_button:hover {
+  background:none!important;}
+
+#header .mobile_prev_button::after, #header #mNotificationBtn.notification-new::after, #header #mToggleArrow, #header #mNotificationBtn, #header #mSearchBtn, #header #mNotificationBtn.notification-new::before, #header #mNotificationBtn::after {
+  top:0px!important;
+  width:30px!important;
+  height:30px!important;}
+
+.mobile_title_content, #mSearchBtn {
+  display:none!important;}
+
 /*MOBILNA - posty*/
 .post-details {
   font-size:0px!important;}
