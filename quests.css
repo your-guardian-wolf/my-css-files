@@ -1,1 +1,6 @@
-
+img[src="https://i.imgur.com/sArmJZh.png"] {
+  padding:15px;
+  border-radius:15px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);}
