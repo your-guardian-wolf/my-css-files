@@ -1,6 +1,18 @@
 img[src="https://i.imgur.com/QSgvvNq.png"], img[src="https://i.imgur.com/jV9K9Ih.png"], img[src="https://i.imgur.com/Q62ArHX.png"], img[src="https://i.imgur.com/1sCEgg6.png"], img[src="https://i.imgur.com/ufTJ6ry.png"] {
-  padding:15px;
+  padding:45px 15px 15px 15px;
+  position:relative;
   border-radius:15px;
   box-shadow:var(--sh);
   border:var(--o1);
   background:var(--b1);}
+
+img[src="https://i.imgur.com/QSgvvNq.png"]:before {
+  content:'#1';
+  position:absolute;
+  border-radius:15px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  background:var(--b1);
+  padding:10px 15px;
+  top:-15px;
+  left:15px;}
