@@ -1,3 +1,6 @@
+/*HARAETTER*/
+.haraet {position:relative;width:90%;background:var(--b1);padding:15px;border:var(--o1);box-shadow:var(--sh);margin-left:5%;}.avatar-h{border-radius:100px;border:var(--o1);box-shadow:var(--sh);width:70px;}.haraet nazwa{font-family:var(--ff1);font-size:18px;margin-left:2%;color:var(--f1);}.haraet naz, .h-k naz{font-family:var(--ff1);color:var(--f3);}.haraett{margin-top:35px;position:relative;}.ikonyh{position:absolute;top:-40px;left:15px;display:flex;gap:15px;}.haraet-1:before{font-family:var(--ff2);content: "\eabe";}.haraet-2:before{font-family:var(--ff2);content: "\eaef";}.haraet-3:before{font-family:var(--ff2);content: "\fbbf";}.haraet-1:before,.haraet-2:before,.haraet-3:before{font-size:25px!important;}.haraett{background:var(--b4);padding:15px;border:var(--o1);box-shadow:var(--sh);}.haraet:before{content: "\ea95";font-family:var(--ff2);position:absolute;top:35px;right:30px;font-size:20px;}.h-k {position:relative;width:70%;background:var(--b1);padding:15px;border:var(--o1);box-shadow:var(--sh);margin-left:15%;}.avatar-k{border-radius:100px;border:var(--o1);box-shadow:var(--sh);width:50px;}.h-k p{font-size:13px;text-align:justify;font-family:'prompt';background:var(--b4);padding:15px;border:var(--o1);box-shadow:var(--sh);margin:0px;}
+
 /*MOCE YUREI*/
 .nodbl {
   transition:0.5s;
