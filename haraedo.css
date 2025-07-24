@@ -20,9 +20,12 @@
   margin-left:2%;
   color:var(--f1);}
 
-.haraet naz, .h-k naz{
+.haraet naz, .h-k naz {
   font-family:var(--ff1);
   color:var(--f3);}
+
+ .h-k naz {
+   font-size:13px!important;}
 
 .haraett{
   margin-top:35px;
@@ -80,7 +83,7 @@
   width:50px;}
 
 .h-k p{
-  font-size:13px;
+  font-size:13px!important;
   text-align:justify;
   font-family:'prompt';
   background:var(--b4);
