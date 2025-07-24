@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Znajdź wszystkie elementy z klasą "haraet"
-  const haraetDivs = document.querySelectorAll('.haraet');
+  const haraetDivs = document.querySelectorAll('.haraett');
   
   haraetDivs.forEach(haraetDiv => {
     const newDiv = document.createElement('div');
