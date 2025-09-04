@@ -1,6 +1,7 @@
 /*AKAPIT*/
-akapit::first-letter {
-  margin-left:15px;}
+.content p{font-size:1.3rem!important;text-align:justify!important;font-family:Prompt;}
+
+.content p::first-letter{margin-left:15px;}
 
 /*HARAETTER*/
 .haraet {
@@ -216,6 +217,7 @@ i.ti.ti-briefcase {
     left: 15px;
     margin-top: -7px;
     font-size: 26px;}
+
 
 
 
