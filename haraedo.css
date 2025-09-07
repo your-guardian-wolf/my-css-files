@@ -1,5 +1,5 @@
 /*AKAPIT*/
-.content p{font-size:1.3rem!important;text-align:justify!important;font-family:Prompt;margin-bottom:0px!important;line-height:1.4em!important;}
+.content p{text-align:justify!important;font-family:Prompt;margin-bottom:0px!important;line-height:1.4em!important;}
 
 .content p::first-letter{margin-left:30px;}
 
@@ -217,6 +217,7 @@ i.ti.ti-briefcase {
     left: 15px;
     margin-top: -7px;
     font-size: 26px;}
+
 
 
 
