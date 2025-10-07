@@ -1,5 +1,24 @@
-/*OPIS*/
+/*KATEGORIE*/
+.forabg {
+  position:relative;
+  display:flex;}
 
+.forabg .header {
+  writing-mode: vertical-rl;
+  transform: scale(-1);
+  width:10px;
+  position:sticky;
+  top:15px;}
+
+ul.forums {
+  overflow:inherit!important;
+  width:calc(100% - 50px);
+  margin-left:50px;
+  gap:15px;
+  display:flex;
+  flex-wrap:wrap;}
+
+/*OPIS*/
 .wo, .wo * {
   transition:0.5s!important;
   box-sizing:border-box;
@@ -73,3 +92,36 @@
 
 .wo input {
   display: none;}
+
+/*SUBFORA*/
+.sub {
+  width:calc(100% - 30px);
+  margin-left:15px;
+  gap:10px 5px;
+  display:flex;
+  flex-wrap:wrap;
+  margin:var(--p1);
+  text-align:Center;
+  font-size:0px;
+  position:absolute;
+  justify-content: center;
+  align-items: center;
+  top:200%;
+  transition:var(--time);}
+
+.sub img {
+  display:none;}
+
+.sub a:nth-child(odd) {
+  display:none;}
+
+.sub a {
+  color:var(--f4)!important;
+  letter-spacing:1px!important;
+  font-size:9.2px!important;
+  min-width:auto;
+  padding:var(--p2);
+  background:var(--b4);
+  border-radius:var(--p1);
+  border:var(--o1);
+  box-shadow:var(--sh);}
