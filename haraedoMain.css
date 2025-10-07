@@ -1,2 +1,75 @@
-a:link {
-font-size:10px!important;}
+/*OPIS*/
+
+.wo, .wo * {
+  transition:0.5s!important;
+  box-sizing:border-box;
+  scrollbar-width: thin;}
+
+.wo > b {
+  font-family:var(--ff2);
+  z-index:997;
+  position:absolute;
+  top:10px;
+  right:10px;}
+
+.wo-st {
+  margin-top:-5px;
+  font-size:10px;
+  margin-bottom:15px;
+  width:100%;
+  text-align:center;
+  display:block;
+  opacity:0.5;}
+
+.wo {
+  display:inline-block;
+  cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur613.cur), progress !important;
+  margin: 0;}
+
+.wo p {
+  display:none;}
+
+.wo > div {
+  cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur610.cur), progress !important;
+  position: absolute;
+  z-index:999;
+  top:-30%;
+  right:-45px;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;}
+
+.wo > input:checked ~ div {
+  opacity: 1;
+  pointer-events: auto;}
+
+.wo > div > div {
+  min-width:250px;
+  max-width:350px;}
+
+.wo-t {
+  font-size:11px;
+  color:var(--f1);
+  text-align:justify;
+  padding:var(--p1);
+  border-radius:var(--p1);
+  background:var(--b4)!important;
+  background-position:bottom center!important;
+  background-repeat:no-repeat!important;
+  box-shadow:var(--sh);
+  border:var(--o1);}
+
+.wo-t1 {
+  font-weight:bold;
+  text-align:center;
+  width:100%;
+  font-size:15px;
+  letter-spacing:4px;
+  font-family:var(--ff1);
+  text-transform: uppercase;}
+
+.wo input {
+  display: none;}
