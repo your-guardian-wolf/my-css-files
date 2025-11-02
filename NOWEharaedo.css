@@ -1,0 +1,29 @@
+/*GÓRA - DÓŁ*/
+.topdown {
+  width:40px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  position: fixed;
+  z-index: 9999!important;
+  bottom:15px;
+  left: 10px;}
+
+.topdown .fas {
+  border-radius:var(--p1);
+  position:relative;
+  color:var(--f2);
+  width:35px;
+  height:35px;
+  padding-top:10px;
+  background:var(--b3);
+  border:var(--o1);
+  box-shadow:var(--sh);
+  font-size: 15px;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+  transition: 1s;}
+
+.topdown .fas:hover {
+  color:var(--f3);}
