@@ -76,8 +76,8 @@ ul.forums {
   text-align:justify;
   padding:var(--p1);
   border-radius:var(--p1);
-  background:var(--b4)!important;
-  background-position:bottom center!important;
+  background:var(--b11), var(--b4)!important;
+  background-position:bottom!important;
   background-repeat:no-repeat!important;
   box-shadow:var(--sh);
   border:var(--o1);}
