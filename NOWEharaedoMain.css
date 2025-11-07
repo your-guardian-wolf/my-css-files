@@ -1,3 +1,76 @@
+/*OGŁOSZENIA - OSTATNIA AKTYWNOŚĆ*/
+.og4 {
+  position:relative;
+  max-width:57%;
+  min-width:57%;}
+
+div.mes-txt ul {
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  text-align:center;
+  padding-left:0px;}
+
+.og4:before {
+  margin-left:15px;
+  content:'ostatnia aktywność';
+  position:absolute;
+  font-size:2em;
+  opacity:0.7;
+  margin-top:-25px;
+  color:var(--f3);
+  letter-spacing:5px;
+  font-family:var(--ff1);
+  font-weight:700;}
+
+.recent-item a:link, .recent-item a:visited {
+  height:37px;
+  line-height:30px;
+  width:200px;
+  overflow:hidden;
+  flex:1;
+  border-radius:var(--p1);
+  padding:4px 15px;
+  border:var(--o1);
+  box-shadow:var(--sh2);
+  background:var(--b4);
+  font-weight:900;
+  letter-spacing:5px;
+  color:var(--f1);}
+
+div.mes-txt li {
+  width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;}
+
+div.mes-txt li:last-of-type {
+  margin-bottom:0px;}
+
+div#recent-posts {
+  padding:var(--p1);
+  max-height:270px;
+  overflow:auto;}
+
+.recent-meta {
+  flex:1;
+  gap:15px;
+  display:flex;}
+
+span.recent-author, span.recent-time {
+  text-transform: uppercase;
+  flex:auto;
+  font-size:10px;
+  border-radius:var(--p1);
+  padding:10px 15px;
+  border:var(--o1);
+  box-shadow:var(--sh2);
+  background:var(--b4);}
+
+span.recent-time {
+  max-width:50px;
+  font-size:15px;}
+
 /*KATEGORIE*/
 .forabg {
   position:relative;
