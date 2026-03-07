@@ -1,5 +1,13 @@
-<svg viewBox="0 0 600 200" preserveAspectRatio="xMaxYMax slice" class="responsive-svg">
+<svg xmlns="http://www.w3.org/2000/svg" 
+     viewBox="0 0 600 200" 
+     preserveAspectRatio="xMaxYMax slice" 
+     class="responsive-svg">
+  
+  <rect width="600" height="200" fill="white"/>
   
   <rect x="500" y="165" width="100" height="35" fill="black"/>
   <circle cx="500" cy="200" r="35" fill="black"/>
+  
+  <line x1="0" y1="0" x2="600" y2="0" stroke="red" stroke-width="2"/>
+  <line x1="0" y1="0" x2="0" y2="200" stroke="red" stroke-width="2"/>
 </svg>
