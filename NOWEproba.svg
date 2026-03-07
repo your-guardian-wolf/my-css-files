@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" 
-     viewBox="0 0 600 200" 
+     viewBox="0 0 600 400" 
      preserveAspectRatio="xMaxYMax slice" 
-     style="width: 100%; height: 200px; display: block;">
+     style="width: 100%; height: 400px; display: block;">
   
   <rect width="100%" height="100%" fill="white"/>
   
-  <g transform="translate(180, 165)">
+  <g transform="translate(180, 365)">
      <rect x="20" y="0" width="420" height="35" 
            rx="17.5" 
            fill="black"/>
