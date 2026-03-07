@@ -7,7 +7,7 @@
   
   <g transform="translate(180, 250)">
      <rect x="20" y="0" width="420" height="250" 
-           rx="30" 
+           rx="60" 
            fill="black"/>
      
      <circle cx="40" cy="75" r="75" fill="black"/>
