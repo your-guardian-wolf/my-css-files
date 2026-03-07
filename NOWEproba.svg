@@ -9,7 +9,7 @@
   
   <rect x="470" y="165" width="130" height="35" 
         fill="none" 
-        stroke="black" 
+        stroke="red" 
         stroke-width="4" 
         rx="10"/>
 </svg>
