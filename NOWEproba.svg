@@ -10,6 +10,6 @@
            rx="60" 
            fill="black"/>
      
-     <circle cx="40" cy="105" r="75" fill="black"/>
+     <circle cx="45" cy="105" r="75" fill="black"/>
   </g>
 </svg>
