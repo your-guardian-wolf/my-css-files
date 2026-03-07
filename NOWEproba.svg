@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
 
   <!-- cała ramka -->
-  <rect x="0" y="0" rx="28" ry="28" fill="white"/>
+  <rect x="0" y="0" width="100%" height="200px" rx="28" ry="28" fill="white"/>
 
   <!-- prostokąt wycięcia -->
   <rect x="300" y="100" width="100" height="50" fill="black"/>
