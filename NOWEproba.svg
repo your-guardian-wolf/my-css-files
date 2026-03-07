@@ -6,7 +6,7 @@
   <rect width="100%" height="100%" fill="white"/>
   
   <g transform="translate(180, 250)">
-     <rect x="20" y="0" width="420" height="150" 
+     <rect x="20" y="0" width="420" height="250" 
            rx="30" 
            fill="black"/>
      
