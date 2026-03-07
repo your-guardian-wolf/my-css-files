@@ -1,5 +1,5 @@
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" class="responsive-svg">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" class="responsive-svg">
     <rect width="100%" height="100%" fill="white"/>
-    <rect x="300" y="185" width="100" height="25" fill="black"/>
-    <circle cx="300" cy="225" r="25" fill="black"/>
+    <rect x="300" y="175" width="100" height="25" fill="black"/>
+    <circle cx="300" cy="215" r="25" fill="black"/>
   </svg>
