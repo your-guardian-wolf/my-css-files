@@ -7,22 +7,26 @@
   
   <g transform="translate(180, 165)">
      <rect x="20" y="0" width="420" height="35" 
-           rx="17.5" 
-           fill="black"/>
+          rx="25"
+           fill="none" 
+           stroke="red" 
+           stroke-width="6"/>
      
-     <circle cx="55" cy="35" r="35" fill="black"/>
+     <rect x="50" y="0" width="100" height="35" fill="black"/>
+     
+     <circle cx="50" cy="35" r="35" fill="black"/>
   </g>
 </svg>
-
-<div style="position:relative; width:100%; height:200px;">
-  <div class="forabg forabg-2 row"></div>
-
-  <!-- nakładka z czerwonym borderem -->
-  <svg viewBox="0 0 600 200" 
+<svg viewBox="0 0 600 200" 
        style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none;">
     <g transform="translate(180, 165)">
-      <path d="M20,0 H440 M20,0 L20,35 Q20,70 55,70"
-            fill="none" stroke="red" stroke-width="4"/>
+      <!-- Czerwony border obejmujący całe wycięcie (prostokąt + koło) -->
+      <path d="
+        M20,0                <!-- start lewy górny róg prostokąta -->
+        H440                  <!-- górna krawędź prostokąta -->
+        M20,0                 <!-- powrót do lewego górnego rogu -->
+        L20,35                <!-- lewa krawędź prostokąta -->
+        Q20,70 55,70          <!-- łuk do koła (lewa strona) -->
+        " fill="none" stroke="red" stroke-width="4"/>
     </g>
   </svg>
-</div>
