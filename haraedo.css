@@ -1,5 +1,5 @@
 /*AKAPIT*/
-.content p{text-align:justify!important;font-family:'Prompt'!important;margin-bottom:0px!important;line-height:22px!important;}
+.content p{text-align:justify!important;font-family:'Prompt'!important;margin-bottom:-22px!important;line-height:22px!important;}
 
 .content p::first-letter{margin-left:30px;}
 
