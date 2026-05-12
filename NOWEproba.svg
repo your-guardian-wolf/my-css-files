@@ -1,6 +1,19 @@
-<svg width="100%" height="670" viewBox="-5 -5 1510 680" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
-  <path d="M 15 0 H 1485 Q 1500 0 1500 15 V 655 Q 1500 670 1485 670 H 465 Q 450 670 450 655 V 315 Q 450 300 435 300 H 15 Q 0 300 0 285 V 15 Q 0 0 15 0 Z" 
-    fill="black" 
-    stroke="red" 
-    stroke-width="3" />
-</svg>
+<svg id="moj-svg" width="100%" height="670" viewBox="-5 -5 1510 680" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
+    <path id="path-ksztalt" d="
+      M 15 0 
+      H 1485 
+      Q 1500 0 1500 15 
+      V 655 
+      Q 1500 670 1485 670 
+      H 465 
+      Q 450 670 450 655 
+      V 315 
+      Q 450 300 435 300 
+      H 15 
+      Q 0 300 0 285 
+      V 15 
+      Q 0 0 15 0 
+      Z" 
+      fill="black" 
+      stroke-width="3" />
+  </svg>
