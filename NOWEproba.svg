@@ -1,21 +1,19 @@
-<svg width="400" height="250" viewBox="-2 -2 404 254" xmlns="http://www.w3.org/2000/svg">
-  <path d="
-    M 15,0 
-    H 385 
-    A 15,15 0 0 1 400,15 
-    V 235 
-    A 15,15 0 0 1 385,250 
-    H 140 
-    A 15,15 0 0 1 125,235 
-    V 95 
-    A 15,15 0 0 0 110,80 
-    H 15 
-    A 15,15 0 0 1 0,65 
-    V 15 
-    A 15,15 0 0 1 15,0 
-    Z" 
-    fill="black" 
-    stroke="var(--o1)" 
-    stroke-width="2" 
-    paint-order="stroke" />
-</svg>
+<div class="container">
+  <svg class="svg-shape" viewBox="0 0 1000 670" preserveAspectRatio="none">
+    <path d="
+      M 15,0 
+      H 985 
+      A 15,15 0 0 1 1000,15 
+      V 655 
+      A 15,15 0 0 1 985,670 
+      H 140 
+      A 15,15 0 0 1 125,655 
+      V 95 
+      A 15,15 0 0 0 110,80 
+      H 15 
+      A 15,15 0 0 1 0,65 
+      V 15 
+      A 15,15 0 0 1 15,0 
+      Z" />
+  </svg>
+</div>
