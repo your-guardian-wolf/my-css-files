@@ -1,22 +1,6 @@
-<svg width="100%" height="670" viewBox="-2 -2 1504 674" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="
-    M 17 2 
-    H 1483 
-    Q 1498 2 1498 17 
-    V 653 
-    Q 1498 668 1483 668 
-    H 467 
-    Q 452 668 452 653 
-    V 317 
-    Q 452 302 437 302 
-    H 17 
-    Q 2 302 2 287 
-    V 17 
-    Q 2 2 17 2 
-    Z" 
+<svg width="100%" height="670" viewBox="-5 -5 1510 680" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
+  <path d="M 15 0 H 1485 Q 1500 0 1500 15 V 655 Q 1500 670 1485 670 H 465 Q 450 670 450 655 V 315 Q 450 300 435 300 H 15 Q 0 300 0 285 V 15 Q 0 0 15 0 Z" 
     fill="black" 
-    stroke="var(--o1)" 
-    stroke-width="2" 
-    vector-effect="non-scaling-stroke"
-    stroke-linejoin="round" />
+    stroke="red" 
+    stroke-width="3" />
 </svg>
