@@ -14,5 +14,8 @@
     V 15 
     Q 0 0 15 0 
     Z" 
-    fill="black" />
+    fill="black" 
+    stroke="var(--o1)" 
+    stroke-width="2" 
+    stroke-linejoin="round" />
 </svg>
