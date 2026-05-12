@@ -1,4 +1,4 @@
-<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="250" viewBox="-2 -2 404 254" xmlns="http://www.w3.org/2000/svg">
   <path d="
     M 15,0 
     H 385 
@@ -14,5 +14,8 @@
     V 15 
     A 15,15 0 0 1 15,0 
     Z" 
-    fill="black" />
+    fill="black" 
+    stroke="var(--o1)" 
+    stroke-width="2" 
+    paint-order="stroke" />
 </svg>
