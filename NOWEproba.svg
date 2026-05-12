@@ -1,19 +1,18 @@
-<div class="container">
-  <svg class="svg-shape" viewBox="0 0 1000 670" preserveAspectRatio="none">
-    <path d="
-      M 15,0 
-      H 985 
-      A 15,15 0 0 1 1000,15 
-      V 655 
-      A 15,15 0 0 1 985,670 
-      H 140 
-      A 15,15 0 0 1 125,655 
-      V 95 
-      A 15,15 0 0 0 110,80 
-      H 15 
-      A 15,15 0 0 1 0,65 
-      V 15 
-      A 15,15 0 0 1 15,0 
-      Z" />
-  </svg>
-</div>
+<svg width="100%" height="670" viewBox="0 0 1500 670" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+    M 15 0 
+    H 1485 
+    Q 1500 0 1500 15 
+    V 655 
+    Q 1500 670 1485 670 
+    H 315 
+    Q 300 670 300 655 
+    V 315 
+    Q 300 300 285 300 
+    H 15 
+    Q 0 300 0 285 
+    V 15 
+    Q 0 0 15 0 
+    Z" 
+    fill="black" />
+</svg>
