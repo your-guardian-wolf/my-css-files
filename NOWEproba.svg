@@ -1,55 +1,36 @@
-<svg id="moj-svg"
-     width="1300"
-     height="670"
-     viewBox="0 0 1300 670"
-     preserveAspectRatio="xMinYMin meet"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+  viewBox="0 0 1300 670"
+  width="100%"
+  height="670"
+  preserveAspectRatio="none"
+  style="max-width:1300px; display:block;"
+>
 
-  <!-- WYPEŁNIENIE -->
-  <path d="
-    M 15 0 
-    H 1285 
-    Q 1300 0 1300 15 
-    V 655 
-    Q 1300 670 1285 670 
+  <defs>
+    <!-- MASKA: biały = widoczne, czarny = wycięte -->
+    <mask id="shapeMask">
+      <!-- całość widoczna -->
+      <rect width="1300" height="670" fill="white"/>
 
-    H 485 
-    A 15 15 0 0 1 470 655 
+      <!-- wycięcie -->
+      <rect
+        x="0"
+        y="var(--topBar, 200)"
+        width="470"
+        height="470"
+        fill="black"
+      />
+    </mask>
+  </defs>
 
-    V 315 
-    A 15 15 0 0 1 485 300 
-
-    H 15 
-    Q 0 300 0 285 
-    V 15 
-    Q 0 0 15 0 
-    Z" 
-    fill="black"/>
-
-  <!-- OBRYS -->
-  <path d="
-    M 15 0 
-    H 1285 
-    Q 1300 0 1300 15 
-    V 655 
-    Q 1300 670 1285 670 
-
-    H 485 
-    A 15 15 0 0 1 470 655 
-
-    V 315 
-    A 15 15 0 0 1 485 300 
-
-    H 15 
-    Q 0 300 0 285 
-    V 15 
-    Q 0 0 15 0 
-    Z" 
-    fill="none"
-    stroke="white"
-    stroke-width="1.2"
-    stroke-linejoin="round"
-    stroke-linecap="round"
-    vector-effect="non-scaling-stroke"/>
+  <!-- KSZTAŁT -->
+  <rect
+    width="1300"
+    height="670"
+    rx="15"
+    ry="15"
+    fill="black"
+    mask="url(#shapeMask)"
+  />
 
 </svg>
