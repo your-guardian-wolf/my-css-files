@@ -1,3 +1,14 @@
-<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="500" height="300" rx="15" ry="15" fill="white" />
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <path d="
+    M 0,40 
+    C 0,15 15,15 40,15 
+    L 460,15 
+    A 15,15 0 0,1 475,30
+    L 475,260
+    C 475,285 485,285 500,285
+    L 40,285
+    A 15,15 0 0,1 25,270
+    L 25,40 
+    Z" 
+    fill="#161616" />
 </svg>
