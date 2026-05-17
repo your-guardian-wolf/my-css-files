@@ -1,18 +1,17 @@
 <svg id="moj-svg"
-     width="100%"
+     width="1300"
      height="670"
-     viewBox="-5 -5 1510 680"
-     preserveAspectRatio="none"
-     xmlns="http://www.w3.org/2000/svg"
-     style="overflow: visible;">
+     viewBox="0 0 1300 670"
+     preserveAspectRatio="xMinYMin meet"
+     xmlns="http://www.w3.org/2000/svg">
 
   <!-- WYPEŁNIENIE -->
   <path d="
     M 15 0 
-    H 1485 
-    Q 1500 0 1500 15 
+    H 1285 
+    Q 1300 0 1300 15 
     V 655 
-    Q 1500 670 1485 670 
+    Q 1300 670 1285 670 
 
     H 485 
     A 15 15 0 0 1 470 655 
@@ -30,10 +29,10 @@
   <!-- OBRYS -->
   <path d="
     M 15 0 
-    H 1485 
-    Q 1500 0 1500 15 
+    H 1285 
+    Q 1300 0 1300 15 
     V 655 
-    Q 1500 670 1485 670 
+    Q 1300 670 1285 670 
 
     H 485 
     A 15 15 0 0 1 470 655 
@@ -51,7 +50,6 @@
     stroke-width="1.2"
     stroke-linejoin="round"
     stroke-linecap="round"
-    vector-effect="non-scaling-stroke"
-    transform="translate(0.5,0.5)"/>
+    vector-effect="non-scaling-stroke"/>
 
 </svg>
