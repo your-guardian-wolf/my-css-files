@@ -1,22 +1,3 @@
-<svg width="100%" height="670" viewBox="-2 -2 1304 674" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="
-    M 17 2 
-    H 1483 
-    Q 1498 2 1498 17 
-    V 653 
-    Q 1498 668 1483 668 
-    H 467 
-    Q 452 668 452 653 
-    V 317 
-    Q 452 302 437 302 
-    H 17 
-    Q 2 302 2 287 
-    V 17 
-    Q 2 2 17 2 
-    Z" 
-    fill="black" 
-    stroke="var(--o1)" 
-    stroke-width="2" 
-    vector-effect="non-scaling-stroke"
-    stroke-linejoin="round" />
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="500" height="300" rx="15" ry="15" fill="white" />
 </svg>
