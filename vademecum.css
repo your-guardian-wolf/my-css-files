@@ -1,7 +1,11 @@
 .t1.kompendium1 {
+  background-repeat:no-repeat;
+  background-position:top;
   background: var(--kompendium1), var(--b1) !important;}
 
 .t1.kompendium2 {
+  background-repeat:no-repeat;
+  background-position:top;
   background:var(--kompendium2), var(--b1)!important;}
 
 :root {
