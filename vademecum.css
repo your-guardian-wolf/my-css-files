@@ -1,0 +1,5 @@
+.t1.kompendium1 {
+  background-image: var(--kompendium1), var(--b1) !important;}
+
+:root {
+  --kompendium1:url("https://2img.net/i.imgur.com/wwbAs6y.png");}
