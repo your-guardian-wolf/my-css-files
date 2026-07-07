@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", (() => {
 
     if (!location.pathname.startsWith("/spa/")) return;
 
@@ -673,4 +673,4 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
 
-});
+})();
