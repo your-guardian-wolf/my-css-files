@@ -1,5 +1,9 @@
 .t1.kompendium1 {
-  background-image: var(--kompendium1), var(--b1) !important;}
+  background: var(--kompendium1), var(--b1) !important;}
+
+.t1.kompendium2 {
+  background:var(--kompendium2), var(--b1)!important;}
 
 :root {
-  --kompendium1:url("https://2img.net/i.imgur.com/wwbAs6y.png");}
+  --kompendium1:url("https://2img.net/i.imgur.com/wwbAs6y.png");
+  --kompendium2:url("https://2img.net/i.imgur.com/HpaKOY6.png");}
