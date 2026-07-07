@@ -8,6 +8,12 @@
   background-position:top;
   background:var(--kompendium2), var(--b1)!important;}
 
+.t1.kompendium3 {
+  background-repeat:no-repeat;
+  background-position:top;
+  background:var(--kompendium2), var(--b1)!important;}
+
 :root {
   --kompendium1:url("https://2img.net/i.imgur.com/wwbAs6y.png");
-  --kompendium2:url("https://2img.net/i.imgur.com/HpaKOY6.png");}
+  --kompendium2:url("https://2img.net/i.imgur.com/HpaKOY6.png");
+  --kompendium3:url("https://2img.net/i.imgur.com/qdn1sW5.png");}
