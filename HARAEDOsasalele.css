@@ -1,3 +1,97 @@
+/*REGISTER*/
+.reg #wrap {
+  padding:var(--p1);
+  border-radius:var(--p1);
+  background:var(--b2);
+  box-shadow: var(--sh2), var(--sh);}
+
+.reg #cp-main .panel+h1 {
+  font-size:0px;
+  margin-top:-30px!important;
+  margin-bottom:15px!important;}
+
+.reg #cp-main .panel+h1:after {
+  font-weight:400;
+  display:block;
+  content:"Do czasu założenia tematów należy pozostawić bazowe załączniki";
+  font-size:11px;
+  width:100%;}
+
+.reg #cp-main .panel+h1:before {
+  font-size:20px;
+  content:'linki';}
+
+.reg #cp-main .panel:first-of-type fieldset dl:first-of-type {
+  display:none;}
+
+.reg #cp-main .panel:first-of-type fieldset dl:last-of-type dt {
+  display:none;}
+
+.reg #cp-main .panel:first-of-type fieldset dl:last-of-type dd {
+  padding:var(--p1);}
+
+.reg fieldset dd {
+  flex:2;
+  padding:0px;
+  border-radius:var(--p1);
+  background:var(--b1);
+  box-shadow: var(--sh2), var(--sh);
+  margin:0px!important;}
+
+.reg input[type="text"], .reg .inputbox {
+  font-family:var(--ff1)!important;
+  outline:none!important;
+  background:none!important;
+  border:0px;
+  color:var(--f1)!important;
+  padding:var(--p1);}
+
+.reg fieldset dt img {
+  display:none;}
+
+.reg fieldset dt {
+  padding:var(--p1);
+  border-radius:var(--p1);
+  background:var(--b1);
+  box-shadow: var(--sh2), var(--sh);
+  flex:1;
+  text-align:center;}
+
+.reg dt label {
+  font-family:var(--ff1);
+  text-transform: lowercase;
+  color:var(--f1)!important;
+  margin:0px;}
+
+.reg fieldset dl {
+  padding:0px;
+  margin-bottom:15px;
+  margin-right:-15px!important;
+  display:flex;
+  gap:Var(--p1);}
+
+.reg #cp-main h1 {
+  color:var(--f1);
+  font-family:var(--ff1);
+  text-transform: lowercase;
+  text-align:center;
+  font-weight:700;
+  width:100%;
+  letter-spacing:1.5px;}
+
+.reg #cp-main .panel p {
+  font-size:11px;
+  color:var(--f1);
+  font-family:var(--ff1);
+  text-transform: lowercase;
+  text-align:center;
+  font-weight:500;
+  width:100%;
+  letter-spacing:1.5px;}
+
+.reg #cp-main .panel {
+  padding:0px;}
+
 /*HARAETTER*/
 .haraet {
   position:relative;
