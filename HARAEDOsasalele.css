@@ -1,0 +1,175 @@
+/*SASA KOMENTARZE*/
+.kom {
+  padding:15px;
+  position:relative;
+  margin-left:15%;
+  max-width:70%;}
+
+.k-nick {
+  opacity:0.4;
+  position:absolute;
+  top:65px;
+  left:140px;
+  padding:5px 15px;
+  font-size:11.5px;
+  font-weight:700;
+  letter-spacing:4px!important;
+  text-transform: lowercase;
+  font-family:var(--ff1);}
+
+.kom .tresc {
+  background: var(--b1);
+  border-radius:var(--p1);
+  box-shadow: var(--sh2), var(--sh);
+  padding:35px 15px 15px 15px;}
+
+.kom-av img {
+  width:110px;
+  height:110px;
+  border-radius:var(--p1);
+  margin-top:30px;
+  margin-left:15px;
+  float:left;
+  margin-right:15px;
+  background: var(--b1);
+  box-shadow: var(--sh2), var(--sh);}
+  
+  /*SASAYAKU*/
+.sasayaki {
+  padding:0px;
+  border-radius:var(--p1);
+  background: var(--b1);
+  box-shadow: var(--sh2), var(--sh);}
+  
+.sasayaki .t1 {
+  box-shadow:none!important;
+  margin:0px;}
+  
+.s-nick {
+  margin-top:-40px!important;
+  box-shadow:none!important;
+  border:0px!important;
+  background:none!important;}
+  
+.news {
+  max-height:433px;
+  overflow:auto;
+  min-width:30%;
+  flex:1;
+  border-radius:var(--p1);
+  background: var(--b1);
+  box-shadow: var(--sh2), var(--sh);
+  padding:var(--p1);}
+  
+.news > div{
+  min-width:100%;
+  font-size:9.5px;
+  opacity:0.5;
+  text-align:right;}
+  
+.s-1 {
+  width:100%;
+  flex-wrap:wrap;
+  gap:15px 10px;
+  display:flex;}
+  
+.av-s {
+  flex:1;
+  margin-right:10px;
+  min-width:204px!important;
+  max-width:204px!important;
+  text-align:center;
+  font-size:10px;}
+  
+ .av-s img{
+  border-radius:15px;
+  box-shadow:var(--sh);
+  border:var(--o1);
+  padding:2px;}
+  
+.av-s div:nth-child(0n+4) {
+  font-size:11px!important;
+  letter-spacing:4px!important;
+  text-transform: uppercase;
+  font-family: var(--ff1);}
+ 
+.av-s > div {
+  margin-top:-5px;
+  padding:var(--p2);
+  background: var(--b1);
+  border-radius:var(--p1);
+  box-shadow: var(--sh2), var(--sh);}
+  
+.dane {
+  border-radius:var(--p1);
+  padding:var(--p3);
+  background: var(--b1);
+  box-shadow: var(--sh2), var(--sh);}
+  
+.jap-s {
+  padding:15px;
+  width:100%;
+  font-size:35px;
+  text-align:center;}
+  
+.t-s {
+  margin-top:-40px;
+  font-family:var(--ff1);
+  text-transform: lowercase;
+  text-align:center;
+  font-size:20px;
+  font-weight:700;
+  letter-spacing:3px;
+  min-width:100%;
+  text-align:center;}
+  
+.zakladki {
+  display:flex;}
+  
+.zakladki span {
+  float:right;}
+  
+.zakladki .sas {
+  position:absolute;
+  box-shadow:none!important;
+  border:0px!important;
+  background:none!important;
+  right:15px;
+  letter-spacing:5px;
+  color:#7e7e7e!important;} 
+  
+.sas {
+  float:right;}
+  
+.zakladki div {
+  border-radius:15px;
+  background: var(--b3);
+  border: var(--o1);
+  box-shadow: var(--sh);
+  padding:15px;
+  color:var(--f1);
+  flex:1;
+  max-width:170px;
+  margin-top:-1px;}
+  
+.zakladki div span {
+  line-height:15px!important;}
+  
+.zakladki div:nth-child(0n+2){
+  background:var(--b1);
+  color:#7e7e7e;
+  padding-bottom:20px;}  
+  
+.sasayaki-wpisz {
+  width:100%;
+  border-radius:var(--p1);
+  background: var(--b2a);
+  box-shadow: var(--sh2), var(--sh);
+  padding:var(--p1);
+  margin-top:-10px;
+  position:relative;}
+ 
+.sasayaki-wpisz i {
+  margin-right:15px;
+  font-size:15px;
+  max-width:15px;}
