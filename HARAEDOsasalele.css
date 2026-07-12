@@ -1,3 +1,18 @@
+/*COOKISY*/
+.sd-cmp-dK6gK .sd-cmp-OOIlF {
+  background:var(--b2)!important;
+  color:var(--f1);}
+
+.sd-cmp-vfoED .sd-cmp-VhJqD, .sd-cmp-vfoED .sd-cmp-kT8Te, .sd-cmp-vfoED .sd-cmp-VhJqD strong {
+  color:var(--f1)!important;
+  font-family:var(--ff1)!important;
+  text-shadow:none!important;}
+
+.sd-cmp-cWOb7, .sd-cmp-Sbln1 .sd-cmp-M5paA {
+  border:0px!important;
+  background:var(--b2)!important;
+  color:var(--f1)!important;}
+
 /*REGISTER*/
 .reg #wrap {
   padding:var(--p1);
