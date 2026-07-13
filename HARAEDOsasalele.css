@@ -1,5 +1,7 @@
 /*KARTA ROZWOJU*/
 .podsumowanie {
+  position:relative;
+  z-index:97;
   padding:var(--p1);
   box-shadow:var(--sh2), var(--sh);
   border-radius:var(--p1);
