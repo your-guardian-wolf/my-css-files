@@ -39,7 +39,7 @@
   letter-spacing:1.5px;
   font-weight:700;
   text-align:center;
-  flex:1;
+  flex:auto;
   padding:vaR(--p3)!important;}
 
 .aktywny a:before, .porzucony a:before, .nieaktywny a:before {
@@ -62,7 +62,7 @@
   padding:var(--p3);
   box-shadow:var(--sh2), var(--sh);
   border-radius:var(--p1);
-  flex:1;}
+  flex:auto;}
 
 .aktywny:before, .porzucony:before, .nieaktywny:before {
   float:left;
