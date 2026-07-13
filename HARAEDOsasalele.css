@@ -75,6 +75,7 @@
   height:calc(100% - 246px);}
 
 .aktywny, .porzucony, .nieaktywny {
+  overflow:hidden;
   padding:var(--p1);
   box-shadow:var(--sh2), var(--sh);
   border-radius:var(--p1);
