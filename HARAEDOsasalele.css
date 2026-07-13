@@ -46,6 +46,7 @@
   display:none;}
 
 .aktywny div, .porzucony div, .nieaktywny div {
+  margin-bottom:-10px;
   display:flex;
   gap:var(--p1);}
 
