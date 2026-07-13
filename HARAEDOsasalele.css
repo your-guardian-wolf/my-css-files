@@ -1,4 +1,21 @@
 /*KARTA ROZWOJU*/
+.podsumowanie {
+  padding:var(--p1);
+  box-shadow:var(--sh2), var(--sh);
+  border-radius:var(--p1);
+  background:var(--b1);}
+
+.kpR > div {
+  margin-bottom:var(--p1);}
+
+.kpR > div:last-of-type {
+  margin-bottom:0px;}
+
+.kpR h1 {
+  font-size:40px!important;
+  margin-top:-70px;
+  margin-bottom:50px!important;}
+
 .kpR {
   position:relative;
   width:100%;
