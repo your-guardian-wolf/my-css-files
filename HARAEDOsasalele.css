@@ -56,7 +56,7 @@
 .aktywny span, .porzucony span, .nieaktywny span {
   letter-spacing:1.5px;
   font-weight:700;
-  font-size:15px;
+  font-size:13px;
   text-align:center;
   background:var(--b1);
   padding:var(--p3);
