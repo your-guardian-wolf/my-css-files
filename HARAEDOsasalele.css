@@ -14,13 +14,14 @@
   margin-bottom:0px;}
 
 .kpR h1 {
-  font-size:40px!important;
-  margin-bottom:50px!important;}
+  font-size:40px!important;}
 
 .kpR > h1:last-of-type {
+  margin-bottom:30px!importnant;
   margin-top:30px!important;}
 
 .kpR > h1:first-of-type {
+  margin-bottom:50px!important;
   margin-top:-70px!important;}
 
 .kpR {
