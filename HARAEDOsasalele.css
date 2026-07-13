@@ -51,7 +51,7 @@
   gap:var(--p1);}
 
 .aktywny span:nth-child(1), .porzucony span:nth-child(1), .nieaktywny span:nth-child(1) {
-  max-width:7%;}
+  max-width:11%;}
 
 .aktywny span, .porzucony span, .nieaktywny span {
   letter-spacing:1.5px;
