@@ -1,4 +1,9 @@
 /*KARTA ROZWOJU*/
+@media (max-height: 900px) {
+  .hrd-menu > div {
+    overflow:auto;
+    padding-right:15px!important;}}
+
 .podsumowanie {
   position:relative;
   z-index:97;
