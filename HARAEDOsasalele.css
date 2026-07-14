@@ -1,4 +1,7 @@
 /*KARTA ROZWOJU*/
+.kpR .hrd-banner {
+  height:400px!important;}
+
 @media (max-height: 900px) {
   .hrd-menu > div {
     overflow:auto;
