@@ -380,9 +380,6 @@
 .kpR .hrd-banner:before {
   box-shadow:var(--sh7)!important;}
 
-:root {
-  --sh7:inset 0px -120px 76px -30px rgba(34, 34, 34, 1);}
-
 .kpR:before {
   background:var(--b2);
   content:"";
