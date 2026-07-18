@@ -27,9 +27,11 @@
   font-family:var(--ff1)!important;}
 
 .forum h2, .forum-grid h2 {
-   background:var(--b1);
-  padding:var(--p1);
-  border-radius:var(--p1);}
+  box-shadow:var(--sh2), var(--sh)!important;
+  color:var(--f1)!important;
+   background:var(--b1)!important;
+  padding:var(--p1)!important;
+  border-radius:var(--p1)!important;}
 
 #header {
   line-height:inherit!important;
