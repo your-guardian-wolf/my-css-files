@@ -1,3 +1,7 @@
+@media (max-height: 700px) {
+    .nav2 {
+        display:none!important;}}
+
 @media (max-width: 1295px) {
 
 .slider {
