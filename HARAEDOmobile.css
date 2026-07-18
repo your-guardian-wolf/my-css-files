@@ -3,7 +3,7 @@
   background:var(--header);}
 
 .forum-header-content img, .forum-header #forum-description {
-  display:none;}
+  display:none!important;}
 
 .cp-sidebar {
   background:var(--b1);
