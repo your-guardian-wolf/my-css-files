@@ -19,7 +19,7 @@
  .ads {
     margin-top:0px!important;}
 
-    .forabg:nth-child(0n+2) .row, .forabg:nth-child(0n+3) .row {
+    .forabg:nth-child(0n+2) .row, .forabg:nth-child(0n+3) .row, .forabg:nth-child(0n+4) .row, .forabg:nth-child(0n+5) .row {
         max-height:180px!important;
   min-width:100%!important;}
     
