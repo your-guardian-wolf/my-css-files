@@ -7,6 +7,12 @@
 .forum-section-wrap {
   margin-bottom:var(--p1);}
 
+.post-section {
+ background:var(--b1)!important;
+  padding:var(--p1)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;}
+
 .forum-avatar {
   border-radius:var(--p1)!important;
   box-shadow:var(--sh2), var(--sh)!important;
