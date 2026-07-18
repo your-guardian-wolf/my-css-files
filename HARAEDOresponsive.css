@@ -69,6 +69,18 @@
 }
 
 @media (max-width: 980px) { 
+
+      .modern-resp .panel p {
+    font-size:inherit!important;}
+
+    
+    .ads {
+  margin-left:0px!important;}
+
+.panel p:last-child, .panel div.mes-txt:last-child {
+  max-width:calc(100% - 32px)!important;}
+
+    
      .modern-resp ul.forums dl.icon dd.dterm>div, .modern-resp .forumbg .row dd.dterm, .modern-resp .forabg .row dd.dterm {
     padding:0px!important;}
   
