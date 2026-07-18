@@ -63,7 +63,7 @@
 
 @media (max-width: 980px) { 
   .ads {
-    width:100%!important;} 
+    min-width:calc(100% + 37px)!important;} 
 
      .forabg:nth-child(0n+2) .row, .forabg:nth-child(0n+3) .row {
   min-width:100%!important;}
