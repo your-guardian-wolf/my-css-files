@@ -69,6 +69,16 @@
 }
 
 @media (max-width: 980px) { 
+     .modern-resp ul.forums dl.icon dd.dterm>div, .modern-resp .forumbg .row dd.dterm, .modern-resp .forabg .row dd.dterm {
+    padding:0px!important;}
+  
+  .forabg .hierarchy {
+    margin:auto!important;}
+  
+  .forabg .row {
+    height:250px!important;}
+
+    
   .ads {
     min-width:calc(100% + 37px)!important;} 
 
