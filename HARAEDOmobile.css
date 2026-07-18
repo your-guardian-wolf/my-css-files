@@ -31,7 +31,9 @@
 #header {
   line-height:inherit!important;
   box-shadow:var(--sh2), var(--sh);
-  color:var(--f1);
-  padding:var(--p1);
-  border-radius:var(--p1);
-  background:var(--b2);}
+  color:var(--f1)!important;
+  padding:var(--p1)!important;
+  height:auto!important;
+  display:flex;
+  border-radius:var(--p1)!important;
+  background:var(--b2)!important;}
