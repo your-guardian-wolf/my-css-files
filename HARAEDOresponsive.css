@@ -6,6 +6,9 @@
   .headerbar:before {
     display:none;}
 
+     .forabg .row {
+    background-position:center!important;}
+
     .forabg:nth-child(0n+1) .lastpost-infos {
         display:block!important;}
 
