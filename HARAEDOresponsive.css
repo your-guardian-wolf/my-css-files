@@ -3,6 +3,16 @@
     margin:auto 95px!important;
     width:auto!important;}
 
+    .forabg:nth-child(0n+5) ul.forums {
+  display:fleX!important;
+  flex-wrap:wrap;}
+
+.forabg:nth-child(0n+5) .row:nth-child(1) {
+  max-width:250px!important;}
+
+.forabg:nth-child(0n+5) .row:nth-child(1) .hierarchy {
+  margin:auto!important;}
+
     .proba {
         left:-172.5px!important;}
 
