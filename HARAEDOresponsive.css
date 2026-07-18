@@ -1,4 +1,8 @@
 @media (max-width: 1295px) {
+
+.slider {
+    max-width:100%!important;}
+    
     #wrap, div#page-header {
     margin:auto 95px!important;
     width:auto!important;}
