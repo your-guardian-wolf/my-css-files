@@ -9,6 +9,9 @@
      .forabg .row {
     background-position:center!important;}
 
+    .forabg:nth-child(0n+6) {
+        margin-right:auto!important;}
+
     .forabg:nth-child(0n+1) .lastpost-infos {
         display:block!important;}
 
