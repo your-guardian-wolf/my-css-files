@@ -2,11 +2,20 @@
     #wrap, div#page-header {
     margin:auto 80px!important;
     width:auto!important;}
+    
   .headerbar:before {
     display:none;}
+    
  .ads {
     margin-top:0px!important;}
+    
 .forabg:nth-child(0n+1) {
-    margin-top:-568px;}
+    margin-top:-568px!important;}
+    
+  .forabg:nth-child(0n+1) ul.forums {
+    max-height:545px!important;}
+    
+  .forabg:nth-child(0n+1) .row {
+    height:auto!important;
+    min-width:48%!important;}
 }
-  
