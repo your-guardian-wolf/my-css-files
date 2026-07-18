@@ -6,6 +6,9 @@
   .headerbar:before {
     display:none;}
 
+    .lastConnected {
+        max-width:100%!important;}
+
      .forabg .row {
     background-position:center!important;}
 
