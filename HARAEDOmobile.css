@@ -4,3 +4,14 @@
 
 .forum-header-content img, .forum-header #forum-description {
   display:none;}
+
+.cp-sidebar {
+  background:var(--b1);
+  padding:var(--p1);
+  border-radius:var(--p1);}
+
+.cp-sidebar ul {
+  flex-wrap:wrap;}
+
+.cp-sidebar ul li {
+  flex:auto;}
