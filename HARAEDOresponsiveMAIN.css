@@ -1,0 +1,17 @@
+@media (max-width: 1285px) {
+    #wrap {
+    margin:auto 95px!important;
+    width:auto!important;}
+
+     .forabg .row {
+    background-position:center!important;}
+
+    .proba2 {
+        left:auto!important;
+        right:100px!important;}
+}
+
+@media (max-width: 980px) { 
+
+
+}
