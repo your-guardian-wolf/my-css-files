@@ -15,3 +15,12 @@
 
 .cp-sidebar ul li {
   flex:auto;}
+
+#mwrap {
+  color:var(--f1);
+  font-family:var(--ff1)!important;}
+
+.forum h2, .forum-grid h2 {
+   background:var(--b1);
+  padding:var(--p1);
+  border-radius:var(--p1);}
