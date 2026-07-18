@@ -14,7 +14,7 @@
         left:-172.5px!important;}
 
     .bestuser {
-        display:none;}
+        display:none!important;}
     
   .headerbar:before {
     display:none;}
