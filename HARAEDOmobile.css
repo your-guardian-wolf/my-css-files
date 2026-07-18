@@ -6,7 +6,11 @@
   letter-spacing: 1.5px;
   text-transform: lowercase;}
 
+.forum-content a {
+  text-transform:inherit!important;}
+
 .forum-description {
+  font-size:12px!important;
   text-align:justify;
   text-transform:inherit!important;
   color:var(--f1)!important;} 
