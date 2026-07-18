@@ -6,12 +6,12 @@
   display:none!important;}
 
 .cp-sidebar {
-  background:var(--b1);
+  background:var(--b1)!important;
   padding:var(--p1);
-  border-radius:var(--p1);}
+  border-radius:var(--p1)!important;}
 
 .cp-sidebar ul {
-  flex-wrap:wrap;}
+  flex-wrap:wrap!important;}
 
 .cp-sidebar ul li {
   flex:auto;}
