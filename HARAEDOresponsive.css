@@ -82,6 +82,7 @@
 
     
      .modern-resp ul.forums dl.icon dd.dterm>div, .modern-resp .forumbg .row dd.dterm, .modern-resp .forabg .row dd.dterm {
+         display:flex!important;
     padding:0px!important;}
   
   .forabg .hierarchy {
@@ -89,7 +90,6 @@
   
   .forabg .row {
     height:250px!important;}
-
     
   .ads {
     min-width:calc(100% + 37px)!important;} 
@@ -105,6 +105,7 @@
     margin-left:0px!important;}
 
         .forabg:nth-child(0n+1) .row:hover .sub {
+            position:relative!important;
         margin-top:35px!important;}
 
 .forabg:nth-child(0n+1) ul.forums {
