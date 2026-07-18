@@ -1,1 +1,12 @@
-
+@media (max-width: 1285px) {
+    #wrap, div#page-header {
+    margin:auto 80px!important;
+    width:auto!important;}
+  .headerbar:before {
+    display:none;}
+ .ads {
+    margin-top:0px!important;}
+.forabg:nth-child(0n+1) {
+    margin-top:-568px;}
+}
+  
