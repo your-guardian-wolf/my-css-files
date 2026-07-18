@@ -1,6 +1,11 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction {
   display:none!important;}
 
+.forum h2 span {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: lowercase;}
+
 .forum-header {
   border-radius:var(--p1)!important;}
 
