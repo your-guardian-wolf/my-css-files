@@ -6,6 +6,17 @@
   letter-spacing: 1.5px;
   text-transform: lowercase;}
 
+.forum-description {
+  text-transform:inherit!important;
+  color:var(--f1)!important;} 
+
+.forum-section, .preview-section {
+  box-shadow:var(--sh2), var(--sh)!important;
+  background:var(--b1)!important;
+  padding:var(--p1)!important;
+  color:var(--f1)!important;
+  border-radius:var(--p1)!important;}
+
 .forum-header {
   border-radius:var(--p1)!important;}
 
