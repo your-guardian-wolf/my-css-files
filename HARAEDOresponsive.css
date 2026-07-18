@@ -24,7 +24,12 @@
 
     .forabg:nth-child(0n+1) .sub {
         margin-top:400px!important;
-        gap:6px!important;}}
+        gap:6px!important;}
+
+     .forabg:nth-child(0n+1) .sub:hover {
+        margin-top:35px!important;}
+
+}
 
 @media (max-width: 980px) { 
   .ads {
