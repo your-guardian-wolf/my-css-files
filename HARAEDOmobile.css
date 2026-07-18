@@ -1,6 +1,9 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men {
   display:none!important;}
 
+.forum-header {
+  border-radius:var(--p1)!important;}
+
 .forum-header-content {
   background-size:cover!important;
   background:var(--header);}
