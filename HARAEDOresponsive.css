@@ -17,6 +17,7 @@
     margin-top:0px!important;}
 
     .forabg:nth-child(0n+2) .row, .forabg:nth-child(0n+3) .row {
+        max-height:180px!important;
   min-width:47%!important;}
     
 .forabg:nth-child(0n+1) {
