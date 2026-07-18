@@ -1,5 +1,12 @@
-.ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction {
+.ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
   display:none!important;}
+
+.forum-content h3 {
+  color:var(--f1);}
+
+.forum-section:before {
+  border:0px!important;
+  background:var(--b2)!important;}
 
 .forum h2 span {
   font-weight: 700;
