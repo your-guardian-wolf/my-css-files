@@ -1,1 +1,6 @@
+.forum-header-content {
+  background-size:cover!important;
+  background:var(--header);}
 
+.forum-header-content img, .forum-header #forum-description {
+  display:none;}
