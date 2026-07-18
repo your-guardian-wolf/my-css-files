@@ -13,7 +13,7 @@
     margin-top:0px!important;}
     
 .forabg:nth-child(0n+1) {
-    margin-top:-568px;}
+    margin-top:-568px!important;}
     
   .forabg:nth-child(0n+1) ul.forums {
     max-height:545px;}
