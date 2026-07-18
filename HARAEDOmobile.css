@@ -5,6 +5,8 @@
   color:var(--f1);}
 
 .forum-section:before {
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;
   border:0px!important;
   background:var(--b2)!important;}
 
