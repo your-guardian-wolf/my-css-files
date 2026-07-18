@@ -7,9 +7,6 @@
   display:fleX!important;
   flex-wrap:wrap;}
 
-.forabg:nth-child(0n+5) .row:nth-child(1) {
-  max-width:250px!important;}
-
 .forabg:nth-child(0n+5) .row:nth-child(1) .hierarchy {
   margin:auto!important;}
 
@@ -42,7 +39,7 @@
     margin-top:0px!important;}
 
     .forabg:nth-child(0n+2) .row, .forabg:nth-child(0n+3) .row, .forabg:nth-child(0n+4) .row, .forabg:nth-child(0n+5) .row {
-        max-height:180px!important;
+        max-height:185px!important;
   min-width:100%!important;}
     
 .forabg:nth-child(0n+1) {
