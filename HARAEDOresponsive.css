@@ -5,6 +5,9 @@
     
   .headerbar:before {
     display:none;}
+
+    .forabg:nth-child(0n+1) .lastpost-infos {
+        display:block!important;}
     
  .ads {
     margin-top:0px!important;}
@@ -26,6 +29,9 @@
 @media (max-width: 980px) { 
   .ads {
     width:100%!important;} 
+
+    .forabg:nth-child(0n+1) .lastpost-infos {
+        display:block!important;}
   
   .forabg:nth-child(0n+1) {
     margin-top:0px!important;
