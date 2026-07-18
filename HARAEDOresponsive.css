@@ -2,6 +2,9 @@
     #wrap, div#page-header {
     margin:auto 95px!important;
     width:auto!important;}
+
+    .bestuser {
+        display:none;}
     
   .headerbar:before {
     display:none;}
