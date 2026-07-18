@@ -12,6 +12,9 @@
     .proba2 {
         left:auto!important;
         right:100px!important;}
+
+    .menu-container {
+        right:65px!important;}
 }
 
 @media (max-width: 980px) { 
