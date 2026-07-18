@@ -1,6 +1,6 @@
 @media (max-width: 1285px) {
     #wrap, div#page-header {
-    margin:auto 80px!important;
+    margin:auto 95px!important;
     width:auto!important;}
     
   .headerbar:before {
@@ -8,6 +8,10 @@
 
     .forabg:nth-child(0n+1) .lastpost-infos {
         display:block!important;}
+
+    .proba2 {
+        left:auto!important;
+        right:100px!important;}
     
  .ads {
     margin-top:0px!important;}
