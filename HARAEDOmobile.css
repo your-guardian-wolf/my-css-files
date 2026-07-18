@@ -1,3 +1,6 @@
+.ads {
+  display:none!important;}
+
 .forum-header-content {
   background-size:cover!important;
   background:var(--header);}
