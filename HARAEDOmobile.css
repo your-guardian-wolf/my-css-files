@@ -35,7 +35,7 @@
   position:absolute!important;
   bottom:30px;}
 
-.forum-content h3 {
+.forum-content h3, .module .h3 {
   color:var(--f1);}
 
 .forum-section-wrap {
@@ -106,7 +106,7 @@
   color:var(--f1);
   font-family:var(--ff1)!important;}
 
-.forum h2, .forum-grid h2 {
+.forum h2, .forum-grid h2, .module .h3 {
   box-shadow:var(--sh2), var(--sh)!important;
   color:var(--f1)!important;
    background:var(--b1)!important;
