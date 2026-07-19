@@ -1,6 +1,22 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
   display:none!important;}
 
+.cp-sidebar ul li {
+  font-size:inherit!important;
+  text-align:center!important;
+  padding:5px!important;}
+
+.tabs li a span {
+  width:100%;
+  display:block!important;}
+
+.cp-sidebar.mobi-breadcrumbs li:last-of-type, .cp-sidebar ul li.activetab {
+  border:0px!important;
+  background:var(--b1)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:5px!important;}
+
 .post-content {
   text-align:justify!important;}
 
