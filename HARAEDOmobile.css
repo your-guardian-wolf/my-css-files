@@ -7,6 +7,89 @@
   box-shadow:var(--sh2), var(--sh)!important;
   padding:var(--p1);}
 
+#tab-bar i {
+  color:var(--f1)!important;}
+
+#header #mToggleArrow:focus-visible, .shownBar:hover, .hiddenBar:hover  {
+  background:var(--b1)!important;}
+
+.forum-avatar img.loaded {
+    width: 80px;
+  height: 130px;}
+
+.whoisonline-toggle {
+  color:var(--f1)!important;
+  padding:var(--p2)!important;
+  background:var(--b1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;}
+
+#to-top {
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  bottom:125px!important;
+  background:var(--b2)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;}
+
+.mini-chatbox, .box-widget-bottom {
+  border:0px!important;
+  color:var(--f1)!important;
+  padding:var(--p1)!important;
+  background:var(--b1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;}
+
+#chatbox_members, #addthis-toolbar {
+  display:none!important;}
+
+#chatbox {
+  margin-right:15px!important;}
+
+.module {
+  background:none!important;
+  border:0px!important;}
+
+td {
+  padding:var(--p3)!important;
+  background:var(--b1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;}
+
+.module-table tr:nth-child(odd) td {
+  background:var(--b1b)!important;}
+
+.forum-statistics {
+  color:var(--f1)!important;
+  right:0px!important;
+  top:25px!important;
+  padding:var(--p2)!important;
+  background:var(--b1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  border-radius:var(--p1)!important;}
+
+.forum-statistics i {
+  display:inline-block;
+  font-size:14px;
+  margin-right:5px;
+  margin-top:-3px;}
+
+.forum-lastpost-wrap i {
+  font-size:25px;
+  margin-right:5px;
+  color:var(--f1);}
+
+.forum-description > div {
+  opacity:0.7;
+  color:var(--f1)!important;}
+
+.forum-description > div:before {
+  content:'';
+  width:80px;
+  height:30px;
+  float:right;}
+
 .dol {
   display:flex;
   justify-content:center;
