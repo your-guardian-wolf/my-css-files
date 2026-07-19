@@ -1,4 +1,4 @@
-.ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
+.ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after, #szSwBtn {
   display:none!important;}
 
 .cp-sidebar ul li {
