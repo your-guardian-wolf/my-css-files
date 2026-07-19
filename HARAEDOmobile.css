@@ -7,6 +7,20 @@
   box-shadow:var(--sh2), var(--sh)!important;
   padding:var(--p1);}
 
+.dol {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:var(--p1);}
+
+.forum-lastpost-wrap {
+  flex:auto;
+  margin-top:var(--p1)!important;
+  padding:var(--p1)!important;}
+
+.forum-icon {
+  display:none;}
+
 .forum-lastpost-wrap {
   border:0px!important;
   background:var(--b1)!important;
