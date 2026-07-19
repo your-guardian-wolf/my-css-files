@@ -34,10 +34,11 @@
   box-shadow:var(--sh2), var(--sh)!important;}
 
 .forum-avatar {
+  margin-top:var(--p1);
   border-radius:var(--p1)!important;
   box-shadow:var(--sh2), var(--sh)!important;
-  width:50px!important;
-  height:50px!important;}
+  width:80px!important;
+  height:69px!important;}
 
 .forum-section:before {
   display:none!important;}
