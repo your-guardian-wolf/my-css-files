@@ -1,6 +1,17 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
   display:none!important;}
 
+.forum-lastpost-wrap {
+  border:0px!important;
+  background:var(--b1)!important;
+  padding:var(--p1)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p1);}
+
+.forum-lastpost-time {
+  text-transform: lowercase;}
+
 .forum-icon {
   position:absolute!important;
   bottom:30px;}
