@@ -1,6 +1,10 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
   display:none!important;}
 
+.forum-icon {
+  position:absolute!important;
+  bottom:30px;}
+
 .forum-content h3 {
   color:var(--f1);}
 
@@ -20,11 +24,7 @@
   height:50px!important;}
 
 .forum-section:before {
-  width:45px!important;
-  box-shadow:var(--sh2), var(--sh)!important;
-  border-radius:var(--p1)!important;
-  border:0px!important;
-  background:var(--b2)!important;}
+  display:none!important;}
 
 .forum h2 span {
   font-weight: 700;
@@ -32,7 +32,7 @@
   text-transform: lowercase;}
 
 .forum-content  {
-  margin-left:60px!important;}
+  margin-left:0px!important;}
 
 .forum-content a {
   text-transform:inherit!important;}
