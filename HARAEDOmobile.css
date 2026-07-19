@@ -1,6 +1,9 @@
 .ads, #header #mNotificationBtn ~ #mSearchBtn, .men, .box.introduction, .forum-section-wrap:not(:last-child):after {
   display:none!important;}
 
+.post-content {
+  text-align:justify!important;}
+
 #tab-bar {
   background:var(--b2)!important;
   border-radius:var(--p1)!important;
