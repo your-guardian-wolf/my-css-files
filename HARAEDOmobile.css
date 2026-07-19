@@ -24,6 +24,94 @@
   box-shadow:var(--sh2), var(--sh)!important;
   border-radius:var(--p1)!important;}
 
+.box, .sceditor-container, div.sceditor-toolbar {
+  border:0px!important;
+  background:var(--b1)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p1)!important;}
+
+div#custom-editor-wrapper {
+  gap:0px!important;}
+
+div#custom-placeholder {
+  margin:15px!important;}
+
+.sceditor-container textarea {
+  color:var(--f1)!important;
+  margin:var(--p1) 0px 0px 0px!important;
+  width:100%;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p1)!important;
+  background:var(--b1)!important;}
+
+.rep-button, .rep-button:focus, .rep-button:active, .rep-button i {
+  color:var(--f1)!important;}
+
+.btn-floating.btn-scrolled, .btn-floating {
+  transition:0.5s!important;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  bottom:130px!important;
+  left:20px!important;
+  right:auto!important;
+  border:0px!important;
+  background:var(--b2)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;}
+
+
+
+input[type="submit"] {
+  margin-left:calc(50% - 40px);
+  padding:var(--p2)!important;}
+
+textarea.input-subtle {
+  min-height:170px!important;}
+
+.input-subtle {
+  background:var(--b1)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p1)!important;}
+
+.box-subtle {
+  border:0px!important;
+  background:var(--b2)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p1)!important;}
+
+.post-buttons {
+  margin:15px 0px 0px 0px!important;}
+
+.rep-button-ellipsis {
+  margin-top:-4px;}
+
+.post-buttons, .btn-rep-topic {
+  border:0px!important;
+  color:var(--f1)!important;
+  background:var(--b2)!important;
+  border-radius:var(--p1)!important;
+  box-shadow:var(--sh2), var(--sh)!important;
+  padding:var(--p2)!important;}
+
+.topic h2, .topic h3, .topic h1 {
+  font-weight: 700;
+  font-size:1.5em!important;
+  color:var(--f1)!important;
+  letter-spacing: 1.5px;
+  text-transform: lowercase;
+  text-align: center;}
+
+.topic h1 {
+  font-size:1.8em!important;}
+
+.post-section {
+  border:0px!important;}
+
 #to-top {
   align-items: center;
   justify-content: center;
