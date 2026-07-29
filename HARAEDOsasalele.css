@@ -1,3 +1,44 @@
+/*EDYCJA PROFILU*/
+#tabs {
+  line-height:auto!important;}
+
+#tabs ul {
+  display:flex;
+  flex-wrap:wrap;
+  gap:var(--p1);}
+
+#tabs ul a {
+  border:0px;}
+
+#tabs ul a span {
+  padding:0px;}
+
+#tabs ul li {
+  flex:auto;
+  justify-content: center;
+  align-items: center;
+  display:flex;
+  box-shadow: var(--sh2), var(--sh);
+  background:var(--b1);
+  padding:var(--p2);
+  border-radius:var(--p1);}
+
+.activetab {
+  background:var(--b1a)!important;}
+
+/*POWIADOMIENIA*/
+.edit2 {    
+  box-shadow: var(--sh2), var(--sh);
+  background: var(--b2);
+  padding: var(--p1);
+  border-radius: var(--p1);}
+
+#cp-main table.table1 {
+  box-shadow: var(--sh2), var(--sh);
+  background: var(--b1);
+  padding: var(--p1);
+  border-radius: var(--p1);}
+
 /*KARTA ROZWOJU*/ 
 #relacje h2 {
   font-size:25px!important;
