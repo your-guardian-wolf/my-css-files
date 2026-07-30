@@ -3,7 +3,7 @@
   width:auto!important;
   flex:1;}
 
-.AD_SellerIdentity .AD_ContentRight ul li, .AD_SellerIdentity .AD_ContentRight ul a.button2 {
+.AD_SellerIdentity .AD_ContentRight ul li, .AD_SellerIdentity .AD_ContentRight a.button2 {
   display:none;}
 
 .AD_SellerIdentity .AD_ContentRight ul li:first-of-type {
