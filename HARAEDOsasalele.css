@@ -30,8 +30,7 @@
 
 div#EV_MainInfos {
   z-index:99;
-  margin-left:-410px;
-  position:absolute;}
+  margin-left:-410px;}
 
 .EV_HalfBlock:after {
     bottom: 0;
