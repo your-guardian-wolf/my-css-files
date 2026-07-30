@@ -1,3 +1,72 @@
+/*CALENDARS*/
+.AD_SectionGallery {
+  width:auto!important;
+  flex:1;}
+
+.AD_SellerIdentity .AD_ContentRight ul li, .AD_SellerIdentity .AD_ContentRight ul a.button2 {
+  display:none;}
+
+.AD_SellerIdentity .AD_ContentRight ul li:first-of-type {
+  display:block!important;}
+
+.EV_HalfBlock {
+  border-radius:var(--p1);
+  box-shadow:var(--sh2), var(--sh);
+  border:0px;
+  width:400px!important;
+  height:400px;
+  position: relative;
+  overflow: hidden;
+  background: transparent !important;}
+
+.EV_MainInfos {
+  z-index:99;
+  border:0px;
+  position:absolute;
+  bottom:0px;}
+
+.AD_SectionDescription {
+  flex:2;}
+
+div#EV_MainInfos {
+  z-index:99;
+  margin-left:-410px;
+  position:absolute;}
+
+.EV_HalfBlock:after {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    box-shadow: var(--sh5);
+    content: '' !important;
+    width: 100%;
+height: 100%;}
+
+.ca-wrap {
+  padding:var(--p1);
+  border-radius:var(--p1);
+  background:var(--b2);
+  box-shadow:var(--sh2), var(--sh);}
+
+.EV_HalfBlock .AD_Thumb {
+  width:400px;
+  height:400px;
+  position:absolute;
+  left:0px;
+  top:0px;}
+
+.ca-body {
+  display:flex;
+  flex-wrap:wrap;
+  gap:var(--p1);
+  padding:0px;
+  margin:0px;}
+
+.AD_DateLabel, .EV_MainMap, .AD_ListDesc {
+  display:none;}
+
+
+
 .tagg2 {
   margin-left:15px;
   float:right;}
