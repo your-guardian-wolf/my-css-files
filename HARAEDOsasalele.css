@@ -288,7 +288,6 @@ height: 100%;}
 .hrd-body {
   position:relative;
   z-index:99;
-  margin-top:var(--p1);
   height:calc(100vh - 395px);
   display:flex;}
 
