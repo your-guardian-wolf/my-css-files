@@ -159,6 +159,7 @@ height: 100%;}
 
 #relacje .ti {
   height:45px;
+  margin-top:0px;
   padding:var(--p1);
   display:flex;
   align-items: center;
