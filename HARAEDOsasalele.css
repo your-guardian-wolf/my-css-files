@@ -378,10 +378,9 @@ height: 100%;}
 
 .hrd-field span {
   opacity:0.5;
-  display:block;
+  display:inline;
   font-size:0.85em;
   letter-spacing:2px;
-  margin-bottom:-20px;
   text-transform:lowercase;}
 
 .hrd-field br {
