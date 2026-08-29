@@ -1,3 +1,31 @@
+.field-historia img {
+  max-width:100%;}
+
+.column1 h1 {
+  font-size: 1.3em;}
+
+a.group-mentiontag {
+  background:var(--b1)!important;}
+
+.icon1 {
+  z-index:999;}
+
+.postbody .content {
+  position:relative;}
+
+.content img {
+  vertical-align: middle;}
+
+.t {font-weight:700;
+  font-size:21px!important;
+  border:0px!important;
+  padding:0px;
+  font-family:var(--ff1)!important;
+  letter-spacing:1.5px;
+  margin:0px!important;
+  text-transform: lowercase;
+  text-align:center;}
+
 /*CALENDARS*/
 .AD_SectionGallery {
   width:auto!important;
