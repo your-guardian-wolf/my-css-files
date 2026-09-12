@@ -1,0 +1,110 @@
+.pinata-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: fit-content;
+  margin: -55px auto;
+}
+
+.pinata-task-content p:nth-child(1) strong {
+  margin-top:15px;
+  font-size:40px!important;
+  letter-spacing:2px;
+  font-family:"Allura", cursive;}
+
+.pinata-task-content p:nth-child(2) {
+  margin-top:15px;
+  padding:var(--p1);
+  box-shadow:var(--sh2), var(--sh);
+  border-radius:var(--p1);
+  background:var(--b1);}
+
+.urodziny p::first-letter {
+  margin-left:0px!important;}
+
+.pinata-task-content p:nth-child(3) {
+  margin-top:15px;}
+
+.pinata-task-content p:nth-child(3), .pinata-task-content p:nth-child(4) {
+  font-size:10px!important;
+  text-align:justify;}
+
+.pinata-status {
+  font-size:11px;}
+
+.pinata-status, .sukces {
+  margin-top:var(--p1);
+  text-align:center;
+  padding:var(--p1);
+  box-shadow:var(--sh2), var(--sh);
+  border-radius:var(--p1);
+  background:var(--b1);}
+
+.pinata-hp-number {
+  text-align:center;
+  width:100%;
+  padding:var(--p3);
+  box-shadow:var(--sh2), var(--sh);
+  border-radius:var(--p1);
+  background:var(--b1);}
+
+.pinata-string {
+  width: 5px;
+  margin-left:-44px;
+  height: 200px;
+  margin-bottom:-220px;
+  background-color: #8b5a2b;
+  transform-origin: top center;
+  animation: pinataStringSway 3.5s ease-in-out infinite;
+  will-change: transform;
+}
+
+.piniata-img {
+  display: inline-block;
+  position: relative;
+  transform-origin: top center;
+  animation: pinataSway 3.5s ease-in-out infinite;
+  will-change: transform;
+  margin-top: -2px;
+}
+
+.piniata-img img {
+  display: block;
+}
+
+@keyframes pinataSway {
+  0% {
+    transform: rotate(-10deg) translateY(0px);
+  }
+  25% {
+    transform: rotate(0deg) translateY(3px);
+  }
+  50% {
+    transform: rotate(10deg) translateY(0px);
+  }
+  75% {
+    transform: rotate(0deg) translateY(3px);
+  }
+  100% {
+    transform: rotate(-10deg) translateY(0px);
+  }
+}
+
+@keyframes pinataStringSway {
+  0% {
+    transform: rotate(-9deg);
+  }
+  25% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(9deg);
+  }
+  75% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-9deg);
+  }
+}
